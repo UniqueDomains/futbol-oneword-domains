@@ -1,0 +1,2 @@
+# futbol-oneword-domains
+List of futbol one word domain names with availability, expiration date, attractiveness, demand score.

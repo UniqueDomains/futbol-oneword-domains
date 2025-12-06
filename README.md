@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.FUTBOL one word domai
 | abatic.futbol     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.futbol    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.futbol   | available | 50       | 1%     | 8      |           |         |         |
-| abc.futbol        | available | 102      | 41%    | 3      |           |         |         |
+| abc.futbol        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.futbol  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.futbol  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.futbol | available | 56       | 1%     | 10     |           |         |         |

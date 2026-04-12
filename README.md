@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .futbol one-word domains from Uniq
 
 **Public extract:** 9,819 rows · **Live catalog:** 9,819 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/futbol`  
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | easy.futbol     | available | $19.99    | $24.99        | 128            | 68     | 4      | name.com          |
 | fun.futbol      | resell    | —         | —             | 122            | 62     | 3      | GoDaddy.com, LLC  |
 | game.futbol     | premium   | $250      | $250          | 120            | 50     | 4      | name.com          |
-| zero.futbol     | available | $19.99    | $24.99        | 112            | 54     | 4      | name.com          |
+| alpha.futbol    | available | $19.99    | $24.99        | 90             | 54     | 5      | name.com          |
 | free.futbol     | resell    | —         | —             | 88             | 59     | 4      | GoDaddy.com, LLC  |
 | abc.futbol      | premium   | $1,040    | $1,040        | 102            | 50     | 3      | namecheap         |
-| business.futbol | available | $21.98    | —             | 100            | 53     | 8      | namecheap         |
+| zero.futbol     | available | $19.99    | $24.99        | 112            | 53     | 4      | name.com          |
 | the.futbol      | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC - 22 |
-| gold.futbol     | premium   | $128.70   | $128.70       | 72             | 49     | 4      | namecheap         |
-| alpha.futbol    | available | $19.99    | $24.99        | 90             | 53     | 5      | name.com          |
-| smart.futbol    | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC  |
 | all.futbol      | premium   | $123.75   | $123.75       | 88             | 48     | 3      | name.com          |
+| business.futbol | available | $21.98    | —             | 100            | 53     | 8      | namecheap         |
+| smart.futbol    | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC  |
+| gold.futbol     | premium   | $128.70   | $128.70       | 72             | 48     | 4      | namecheap         |
 | fast.futbol     | available | $19.99    | $24.99        | 82             | 53     | 4      | name.com          |
 | book.futbol     | resell    | —         | —             | 82             | 55     | 4      | NameCheap, Inc.   |
-| only.futbol     | premium   | $123.75   | $123.75       | 110            | 47     | 4      | name.com          |
+| only.futbol     | premium   | $123.75   | $123.75       | 110            | 46     | 4      | name.com          |
 | art.futbol      | available | $21.98    | —             | 90             | 52     | 3      | namecheap         |
-| info.futbol     | resell    | —         | —             | 80             | 53     | 4      | GoDaddy.com, LLC  |
-| hotel.futbol    | premium   | $260      | $260          | 70             | 46     | 5      | namecheap         |
-| design.futbol   | available | $19.99    | $24.99        | 108            | 50     | 6      | name.com          |
 | true.futbol     | resell    | —         | —             | 86             | 52     | 4      | GoDaddy.com, LLC  |
+| hotel.futbol    | premium   | $260      | $260          | 70             | 45     | 5      | namecheap         |
+| design.futbol   | available | $19.99    | $24.99        | 108            | 50     | 6      | name.com          |
+| info.futbol     | resell    | —         | —             | 80             | 51     | 4      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUTBOL One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUTBOL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

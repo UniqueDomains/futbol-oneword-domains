@@ -68,21 +68,21 @@ print(df.head())
 | fun.futbol      | resell    | —         | —             | 122            | 62     | 3      | GoDaddy.com, LLC  |
 | game.futbol     | premium   | $250      | $250          | 120            | 50     | 4      | name.com          |
 | zero.futbol     | available | $19.99    | $24.99        | 112            | 53     | 4      | name.com          |
-| free.futbol     | resell    | —         | —             | 88             | 59     | 4      | GoDaddy.com, LLC  |
+| the.futbol      | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC - 22 |
 | abc.futbol      | premium   | $1,040    | $1,040        | 102            | 50     | 3      | namecheap         |
 | business.futbol | available | $21.98    | —             | 100            | 53     | 8      | namecheap         |
-| the.futbol      | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC - 22 |
+| free.futbol     | resell    | —         | —             | 88             | 57     | 4      | GoDaddy.com, LLC  |
 | all.futbol      | premium   | $123.75   | $123.75       | 88             | 48     | 3      | name.com          |
 | alpha.futbol    | available | $19.99    | $24.99        | 90             | 53     | 5      | name.com          |
 | smart.futbol    | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC  |
 | gold.futbol     | premium   | $128.70   | $128.70       | 72             | 48     | 4      | namecheap         |
-| fast.futbol     | available | $19.99    | $24.99        | 82             | 53     | 4      | name.com          |
+| art.futbol      | available | $21.98    | —             | 90             | 52     | 3      | namecheap         |
 | book.futbol     | resell    | —         | —             | 82             | 55     | 4      | NameCheap, Inc.   |
 | only.futbol     | premium   | $123.75   | $123.75       | 110            | 46     | 4      | name.com          |
-| art.futbol      | available | $21.98    | —             | 90             | 52     | 3      | namecheap         |
+| fast.futbol     | available | $19.99    | $24.99        | 82             | 52     | 4      | name.com          |
 | true.futbol     | resell    | —         | —             | 86             | 52     | 4      | GoDaddy.com, LLC  |
 | hotel.futbol    | premium   | $260      | $260          | 70             | 45     | 5      | namecheap         |
-| design.futbol   | available | $19.99    | $24.99        | 108            | 50     | 6      | name.com          |
+| design.futbol   | available | $19.99    | $24.99        | 108            | 49     | 6      | name.com          |
 | info.futbol     | resell    | —         | —             | 80             | 51     | 4      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.

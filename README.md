@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .futbol one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,797 domains · **Median ask:** $22.10 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/futbol`  
 **Best for:** founders, investors, studios
 
@@ -64,14 +64,14 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Ryan.futbol         | available | $21.98    | —             | 60             | 44     | 4      | namecheap        |
+| whynot.futbol       | available | $19.99    | —             | 74             | 44     | 7      | name.com         |
 | ladies.futbol       | resell    | —         | —             | 80             | 17     | 6      | GoDaddy.com, LLC |
 | teams.futbol        | premium   | $250      | —             | 62             | 32     | 5      | name.com         |
-| jobs.futbol         | available | $19.99    | —             | 79             | 42     | 4      | name.com         |
+| Ryan.futbol         | available | $21.98    | —             | 60             | 44     | 4      | namecheap        |
 | partners.futbol     | premium   | $1,000    | —             | 61             | 32     | 8      | name.com         |
-| shortcuts.futbol    | available | $19.99    | —             | 48             | 41     | 10     | name.com         |
+| jobs.futbol         | available | $19.99    | —             | 79             | 42     | 4      | name.com         |
 | girls.futbol        | premium   | $82.50    | —             | 83             | 23     | 5      | name.com         |
-| whynot.futbol       | available | $19.99    | —             | 74             | 39     | 7      | name.com         |
+| shortcuts.futbol    | available | $19.99    | —             | 48             | 41     | 10     | name.com         |
 | templates.futbol    | premium   | $1,000    | —             | 54             | 17     | 9      | name.com         |
 | neuroscience.futbol | available | $19.99    | —             | 80             | 37     | 12     | name.com         |
 | events.futbol       | available | $19.99    | —             | 68             | 37     | 6      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUTBOL One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUTBOL One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

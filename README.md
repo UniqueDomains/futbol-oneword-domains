@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .futbol one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 33,058 domains · **Median ask:** $10.37 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/futbol`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| feel.futbol     | available | $17.99    | $17.99        | high           | low    | 4      | namesilo               |
-| sorry.futbol    | available | $19.99    | $24.99        | high           | low    | 5      | name.com               |
-| age.futbol      | available | $5.98     | $21.98        | medium         | low    | 3      | namecheap              |
+| endorse.futbol  | available | $5.98     | $21.98        | high           | low    | 7      | namecheap              |
+| organic.futbol  | available | $5.98     | $21.98        | high           | low    | 7      | namecheap              |
+| message.futbol  | available | $5.98     | $21.98        | high           | low    | 7      | namecheap              |
+| nature.futbol   | available | $5.98     | $21.98        | high           | low    | 6      | namecheap              |
+| display.futbol  | available | $5.98     | $21.98        | high           | low    | 7      | namecheap              |
+| madison.futbol  | available | $5.98     | $21.98        | high           | low    | 7      | namecheap              |
+| aid.futbol      | available | $17.99    | $17.99        | high           | low    | 3      | namesilo               |
+| the.futbol      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 22      |
+| bets.futbol     | premium   | $242      | $242          | high           | low    | 4      | namesilo               |
+| aim.futbol      | available | $17.99    | $17.99        | high           | low    | 3      | namesilo               |
 | promo.futbol    | resell    | —         | —             | high           | low    | 5      | Network Solutions, LLC |
-| web.futbol      | premium   | $1,040    | $1,040        | low            | low    | 3      | namecheap              |
-| aid.futbol      | available | $17.99    | $17.99        | medium         | low    | 3      | namesilo               |
-| lottery.futbol  | resell    | —         | —             | high           | low    | 7      | Porkbun LLC            |
-| ball.futbol     | premium   | $242      | $242          | medium         | low    | 4      | namesilo               |
+| lion.futbol     | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo               |
 | ala.futbol      | available | $17.99    | $17.99        | high           | low    | 3      | namesilo               |
-| triangle.futbol | resell    | —         | —             | medium         | low    | 8      | GoDaddy.com, LLC       |
-| loco.futbol     | premium   | $82.50    | $82.50        | medium         | low    | 4      | name.com               |
-| bed.futbol      | available | $17.99    | $17.99        | high           | low    | 3      | namesilo               |
-| only.futbol     | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo               |
-| car.futbol      | available | $17.99    | $17.99        | high           | medium | 3      | namesilo               |
-| about.futbol    | premium   | $1,040    | $1,040        | medium         | low    | 5      | namecheap              |
-| cot.futbol      | available | $17.99    | $17.99        | high           | low    | 3      | namesilo               |
+| token.futbol    | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 22      |
+| loco.futbol     | premium   | $82.50    | $82.50        | high           | low    | 4      | name.com               |
+| arc.futbol      | available | $5.98     | $21.98        | high           | medium | 3      | namecheap              |
+| lottery.futbol  | resell    | —         | —             | high           | low    | 7      | Porkbun LLC            |
 | balls.futbol    | premium   | $242      | $242          | high           | low    | 5      | namesilo               |
-| don.futbol      | available | $17.99    | $17.99        | high           | low    | 3      | namesilo               |
-| crazy.futbol    | premium   | $78.54    | $78.54        | low            | low    | 5      | namesilo               |
-| ear.futbol      | available | $17.99    | $17.99        | high           | low    | 3      | namesilo               |
+| bed.futbol      | available | $17.99    | $17.99        | high           | low    | 3      | namesilo               |
+| triangle.futbol | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUTBOL One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUTBOL One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

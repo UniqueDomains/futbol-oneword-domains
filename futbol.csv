@@ -1,9 +1,10 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+fc84e9dc-21a4-4c73-b59b-29ce6c021746,camels.futbol,available,7.49,17.99,medium,low,6,namesilo,,,30/09/2026 15:26
 fdcd5a88-9287-4437-a046-6a981d5e4e72,windflower.futbol,available,7.49,17.99,high,low,10,namesilo,,,19/09/2026 05:19
 f9655d5f-1988-4ac6-88d6-cdb407766719,parasitic.futbol,available,5.98,21.98,medium,low,9,namecheap,,,17/08/2026 10:15
 54b67767-517f-405b-a4ab-f088ded9e840,automaton.futbol,available,7.49,17.99,high,low,9,namesilo,,,21/09/2026 07:00
 788634a0-6cc1-43ef-95e8-722a48f8f601,worthy.futbol,available,5.57,14.13,high,low,6,dynadot,,,28/09/2026 11:05
-903cbe46-5439-4e1b-b454-f65f7115ce23,algal.futbol,available,5.98,21.98,high,low,5,namecheap,,,
+903cbe46-5439-4e1b-b454-f65f7115ce23,algal.futbol,available,5.98,21.98,medium,low,5,namecheap,,,
 4e20f1c2-63db-4519-90e2-92727608b0d1,scored.futbol,available,5.66,13.9,high,low,6,porkbun,,,27/09/2026 23:20
 76d544ae-d8d7-4c19-a6ad-17dac5b324fb,imminent.futbol,available,5.98,21.98,high,low,8,namecheap,,,21/08/2026 20:55
 5d9035b3-4d79-4686-af05-f81ad7b67773,harsh.futbol,available,5.98,21.98,medium,low,5,namecheap,,,12/08/2026 13:58
@@ -15,9 +16,10 @@ f9655d5f-1988-4ac6-88d6-cdb407766719,parasitic.futbol,available,5.98,21.98,mediu
 dc2ee24b-f936-44e7-aa90-0b0279a852f4,supra.futbol,available,5.98,21.98,high,low,5,namecheap,,,
 af58e7a5-60a7-4698-bd81-07744ba0a69e,emmett.futbol,available,5.98,21.98,medium,low,6,namecheap,,,28/09/2026 08:01
 15ff73b7-15e9-4829-9731-26146c3d6fc7,necromancy.futbol,available,9.99,24.99,medium,low,10,name.com,,,23/09/2026 23:53
+b38c77ed-a379-45d7-8856-28a490858948,temperament.futbol,available,5.38,13.66,high,low,11,spaceship,,,30/09/2026 22:37
 3c968007-4eec-4b4f-8e40-c358ca53de4b,loamy.futbol,available,5.98,21.98,medium,low,5,namecheap,,,24/08/2026 08:15
 24758d90-ed53-4b3d-9fbb-a101704e4035,coats.futbol,available,7.49,17.99,high,low,5,namesilo,,,17/09/2026 00:23
-39fa62db-887b-4c89-884e-a144724e95ea,heads.futbol,available,17.99,17.99,high,low,5,namesilo,,,
+39fa62db-887b-4c89-884e-a144724e95ea,heads.futbol,available,5.66,13.9,high,low,5,porkbun,,,01/10/2026 03:58
 721fe654-5dbc-4cd3-950f-2b1d37e2db2f,unchanged.futbol,available,5.98,21.98,high,low,9,namecheap,,,12/09/2026 00:32
 b62b15ed-26b7-4978-bf3b-4b71d7fc436b,sappy.futbol,available,5.98,21.98,medium,low,5,namecheap,,,12/08/2026 14:56
 246926f3-7124-416c-96fc-1baf46e159ce,auriga.futbol,available,7.49,17.99,medium,low,6,namesilo,,,21/09/2026 04:24
@@ -28,6 +30,7 @@ afef1878-44e2-4010-a2ae-245297cb022d,chaparral.futbol,available,5.98,21.98,mediu
 d9939c69-f7e6-4239-be44-4b782c1519f9,crumb.futbol,available,5.98,21.98,medium,low,5,namecheap,,,11/08/2026 09:20
 909c1987-3b13-4873-b943-2c5d113c12ef,woolwich.futbol,available,13.2,13.2,medium,low,8,cloudflare,,,29/09/2026 15:50
 2b4110a4-a278-45d6-ad7c-d17ed4508c23,insular.futbol,available,5.98,21.98,medium,low,7,namecheap,,,22/08/2026 07:38
+945ffd7a-b07c-4e20-9f66-f3f27b38ea40,mayo.futbol,available,5.98,21.98,high,low,4,namecheap,,,30/09/2026 10:34
 553e631f-bfde-4346-be60-2e8461190c87,revered.futbol,available,5.38,13.66,high,low,7,spaceship,,,27/09/2026 14:02
 297c2734-f17d-497b-a387-6f7130b3ba4b,smoggy.futbol,available,5.98,21.98,medium,low,6,namecheap,,,10/09/2026 11:52
 abd2510d-e7a5-4ef9-866f-f7ac3d3714d8,ackack.futbol,available,5.98,21.98,medium,low,7,namecheap,,,
@@ -40,6 +43,7 @@ a1c3095e-2c00-4c09-8a7a-461046fa2924,there.futbol,available,7.49,17.99,high,low,
 d2409efc-3685-4635-a3e4-ed300633e8aa,salacity.futbol,available,7.49,17.99,medium,low,8,namesilo,,,22/09/2026 16:54
 9dd57d6d-cfdd-453e-8839-92ee9983f612,sanchez.futbol,available,7.49,17.99,high,low,7,namesilo,,,19/09/2026 04:36
 1cc3cb9d-a969-40b7-b3c1-980a9804f586,snowdrop.futbol,available,7.49,17.99,high,low,8,namesilo,,,19/09/2026 05:27
+e62e5b57-9c08-41e6-a0fb-60de023a4242,crucifix.futbol,available,5.38,13.66,high,low,8,spaceship,,,30/09/2026 16:50
 07442588-1cb9-43a9-b9d8-bdfd1af9252d,allergy.futbol,available,13.2,13.2,high,low,7,cloudflare,,,28/09/2026 20:29
 6e1348a4-2e5b-4e2b-9b04-c8f543df5978,ingrained.futbol,available,5.98,21.98,high,low,9,namecheap,,,13/08/2026 22:49
 6adef782-e0f0-4afa-840b-9db11af0b841,inconvenience.futbol,available,5.38,13.66,medium,low,13,spaceship,,,29/09/2026 02:52
@@ -48,26 +52,31 @@ bc22a458-c381-4ac8-935c-d898d77e4a1a,con.futbol,available,5.38,13.66,high,low,3,
 02fa23e7-fd89-49cf-9925-46fbc5c4534e,annwn.futbol,available,7.49,17.99,medium,low,5,namesilo,,,19/09/2026 11:09
 20e78e82-28c5-4be2-9da4-f353e95493ff,met.futbol,available,7.49,17.99,high,low,3,namesilo,,,27/09/2026 17:23
 912b1f5b-a467-414e-9f48-92144bad93d9,bain.futbol,available,5.66,13.9,high,low,4,porkbun,,,28/09/2026 07:18
+c09721df-4196-4b83-a1c6-f3400ec09867,flashback.futbol,available,5.66,13.9,high,low,9,porkbun,,,30/09/2026 17:20
 73fa406f-e41e-47f4-bf09-4dca6f4969b7,snitcher.futbol,available,7.49,17.99,medium,low,8,namesilo,,,19/09/2026 14:14
 bcfc09e3-e800-4f24-b166-74b4fc14da67,anthology.futbol,available,7.49,17.99,high,low,9,namesilo,,,19/09/2026 13:28
-6191d7c5-6f04-4f02-ae99-76e2c5b63ff1,mansfield.futbol,available,7.49,17.99,high,low,9,namesilo,,,25/09/2026 08:08
+6191d7c5-6f04-4f02-ae99-76e2c5b63ff1,mansfield.futbol,available,7.49,17.99,medium,low,9,namesilo,,,25/09/2026 08:08
 31bf9901-7e18-4181-babd-b30a0f8e6189,weinberg.futbol,available,7.49,17.99,medium,low,8,namesilo,,,28/09/2026 10:58
 54ce88e0-46c0-4ec4-9c02-4d1b14398cf8,saloon.futbol,available,7.49,17.99,high,low,6,namesilo,,,22/09/2026 03:40
+bfb30e04-ba21-4e9e-8729-2a00dcfc5a4b,clusters.futbol,available,5.38,13.66,medium,low,8,spaceship,,,30/09/2026 22:40
 79d8b44f-a691-4e58-adbe-03c6c8307994,transonic.futbol,available,5.98,21.98,medium,low,9,namecheap,,,10/09/2026 14:11
 828e019f-44a2-4edf-85f4-3ad1bebeaa13,primes.futbol,available,7.49,17.99,medium,low,6,namesilo,,,20/09/2026 11:21
 164b4e91-8268-4c84-b24f-3ba179d2865f,joyce.futbol,available,5.38,13.66,high,low,5,spaceship,,,27/09/2026 14:23
+8cc9ee2f-36cc-45c3-b130-367c23d80c4b,vend.futbol,available,7.49,17.99,high,low,4,namesilo,,,30/09/2026 02:34
 15267e95-453a-4597-b837-56fafa9982c7,fosamax.futbol,available,7.49,17.99,medium,low,7,namesilo,,,18/09/2026 05:11
+d2ad8ac2-5256-4b13-984b-a6b19ebe0745,biochemistry.futbol,available,5.38,13.66,high,low,12,spaceship,,,30/09/2026 14:26
 fa9c7961-7aaf-4b82-bd95-79158b99eb3d,jinxed.futbol,available,5.98,21.98,medium,low,6,namecheap,,,21/08/2026 07:53
 408fdb59-3549-4124-ae79-75dc3128a23d,detector.futbol,available,7.49,17.99,high,low,8,namesilo,,,24/09/2026 21:49
 ab3979fb-e9d5-438b-923d-ee6bf0b492ba,caspar.futbol,available,5.38,13.66,medium,low,6,spaceship,,,29/09/2026 06:16
-d231dfd3-aa57-48da-88eb-aa83baeb21f6,harding.futbol,available,13.2,13.2,high,low,7,cloudflare,,,28/09/2026 19:24
+d231dfd3-aa57-48da-88eb-aa83baeb21f6,harding.futbol,available,13.2,13.2,medium,low,7,cloudflare,,,28/09/2026 19:24
 57bae899-d97a-48f6-8c01-fd1b2935541c,agio.futbol,available,5.98,21.98,medium,low,4,namecheap,,,17/09/2026 18:01
 50bba5f9-ccd3-476e-8225-796edecb6ff9,reflex.futbol,available,7.49,17.99,high,low,6,namesilo,,,27/09/2026 11:10
 bc52a3c3-cff1-4f73-b626-3ea9d5265747,feathery.futbol,available,5.98,21.98,high,low,8,namecheap,,,18/08/2026 00:18
 bc65368c-0d09-458d-8cb0-74a5c91df50a,josh.futbol,available,5.98,21.98,high,medium,4,namecheap,,,22/08/2026 13:51
-34f75e14-4b3c-4941-b0b5-fd7c900f0b6e,forehand.futbol,available,5.98,21.98,high,low,8,namecheap,,,18/08/2026 11:38
+34f75e14-4b3c-4941-b0b5-fd7c900f0b6e,forehand.futbol,available,5.98,21.98,medium,low,8,namecheap,,,18/08/2026 11:38
 fc13e6cf-4afb-49f6-8240-ceff5f6753f0,aesthetics.futbol,available,7.49,17.99,high,low,10,namesilo,,,17/09/2026 13:37
 5b1e5b78-d2df-4cef-9ce6-9012258e1168,ordinary.futbol,available,7.49,17.99,high,low,8,namesilo,,,26/09/2026 00:20
+2d77eb97-1ed0-4fa2-a868-ea27b336b82e,thickness.futbol,available,5.98,21.98,high,low,9,namecheap,,,30/09/2026 11:10
 d3728021-f0f0-49eb-b3e2-a73636a562c5,battledore.futbol,available,5.98,21.98,high,low,10,namecheap,,,21/09/2026 17:16
 f860270c-c569-4c77-a8cd-10b4ae85552d,saute.futbol,available,5.98,21.98,high,low,5,namecheap,,,09/09/2026 22:00
 70ddf54f-a92a-4332-8c1e-fe3a954b0e38,edified.futbol,available,5.98,21.98,medium,low,7,namecheap,,,15/08/2026 09:32
@@ -83,22 +92,25 @@ f9343fd6-32fb-4bbe-93b1-7486e63a3421,generation.futbol,available,7.49,17.99,high
 e284b2ae-0c55-46d9-967b-ed45e2cb3557,sycamore.futbol,available,5.98,21.98,high,low,8,namecheap,,,16/09/2026 23:36
 218b38ee-97a7-4099-932a-d61544cc836b,nuclei.futbol,available,16.98,21.98,medium,low,6,namecheap,,,
 d7f9838e-a989-44e5-bdde-36a930dd3ecb,interwoven.futbol,available,5.98,21.98,high,low,10,namecheap,,,22/08/2026 08:08
-238b3786-337d-4241-b84b-96e72325400c,developmental.futbol,available,5.66,13.9,high,low,13,porkbun,,,29/09/2026 02:36
+238b3786-337d-4241-b84b-96e72325400c,developmental.futbol,available,5.66,13.9,medium,low,13,porkbun,,,29/09/2026 02:36
 cc586151-a0d7-4938-882a-ea7ccec36308,picnic.futbol,available,7.49,17.99,high,low,6,namesilo,,,24/09/2026 14:34
+9063783a-e0a4-4365-a6d9-caee8ef16a9b,sakhalin.futbol,available,5.38,13.66,medium,low,8,spaceship,,,30/09/2026 21:09
 b1e48db9-ff3a-49f3-bd9f-84fc73339c72,wolfgang.futbol,available,7.49,17.99,high,low,8,namesilo,,,25/09/2026 15:09
 87998439-74f6-476e-88bb-d49c9b448d6f,teddy.futbol,available,7.49,17.99,high,low,5,namesilo,,,24/09/2026 14:16
 d566fd5d-38ce-448c-8d95-51f2a4e39baa,club.futbol,premium,242,242,high,medium,4,namesilo,,,29/09/2026 00:44
 19a1f22f-3d0e-4146-be0f-741578c52c7e,basseterre.futbol,available,7.49,17.99,medium,low,10,namesilo,,,22/09/2026 12:18
+18dd2560-e720-40c1-a684-fd5f27745deb,vulnerability.futbol,available,5.38,13.66,high,low,13,spaceship,,,30/09/2026 05:50
 29c749c3-b5c1-4542-82b2-9d339531fc88,growing.futbol,available,5.98,21.98,high,low,7,namecheap,,,19/09/2026 05:23
 9b7d0070-4d14-425e-ac05-4ac8cb17926f,livermore.futbol,available,5.38,13.66,medium,low,9,spaceship,,,28/09/2026 10:16
 a3054eed-8bb3-49d1-a687-9319b1614add,synoecious.futbol,available,5.98,21.98,medium,low,10,namecheap,,,11/09/2026 06:29
 5e5f53e7-06d7-4bf2-878f-371faaae037a,athens.futbol,available,5.98,21.98,high,low,6,namecheap,,,20/09/2026 20:44
+4a92413b-091f-42e8-bb20-6b613a1e862e,schizophrenic.futbol,available,7.49,17.99,medium,low,13,namesilo,,,30/09/2026 12:09
 a280bce1-9c8f-4e7b-a67d-c38c4a554dcd,supplied.futbol,available,17.99,17.99,medium,low,8,namesilo,,,
 c24b849e-11dd-483b-ab74-8bdf8e1f621b,meir.futbol,available,5.38,13.66,medium,low,4,spaceship,,,29/09/2026 07:06
 478f6310-6a2c-4720-ad71-06a19c18beed,paranoid.futbol,available,5.98,21.98,high,low,8,namecheap,,,08/09/2026 01:06
 7836569f-6af4-4cdb-9acd-ffcd98ec6833,grief.futbol,available,5.98,21.98,high,low,5,namecheap,,,24/09/2026 10:39
 0485e307-19c7-49bf-811f-7641119e1fc9,thrive.futbol,available,5.38,13.66,high,medium,6,spaceship,,,29/09/2026 18:54
-b7f792f0-21d5-43df-bf10-8f962c2cc060,childless.futbol,available,5.98,21.98,high,low,9,namecheap,,,12/08/2026 05:10
+b7f792f0-21d5-43df-bf10-8f962c2cc060,childless.futbol,available,5.98,21.98,medium,low,9,namecheap,,,12/08/2026 05:10
 62b136e6-3369-4e50-ad01-9e8fba3f5ce1,unanimous.futbol,available,5.98,21.98,high,low,9,namecheap,,,12/08/2026 22:33
 95e89fbb-bfb7-43dd-8f21-3ac090c8e264,puncture.futbol,available,5.38,13.66,high,low,8,spaceship,,,29/09/2026 20:04
 8e2df0fa-f62a-4125-af98-a10c7d40396b,coital.futbol,available,5.98,21.98,low,low,6,namecheap,,,12/08/2026 16:22
@@ -111,6 +123,7 @@ f220307e-ecaf-4489-b525-96f04702be7c,prayed.futbol,available,7.49,17.99,medium,l
 1da54d63-d3e0-48d3-ac59-82cad35f9e34,perks.futbol,available,5.98,21.98,high,low,5,namecheap,,,20/09/2026 14:58
 e27954f1-1253-4aaa-b661-4422bb1a4e75,banyan.futbol,available,7.49,17.99,high,low,6,namesilo,,,22/09/2026 02:04
 db134856-1a8c-4ff3-b13d-92c9ef354de4,whiskered.futbol,available,5.98,21.98,medium,low,9,namecheap,,,08/08/2026 16:15
+39c20c6b-715a-47de-bcad-f26601954183,assassins.futbol,available,5.38,13.66,low,low,9,spaceship,,,30/09/2026 07:00
 2a3e64bf-7ee6-4875-9101-c4773b9b4be5,trotsky.futbol,available,5.57,14.13,medium,low,7,dynadot,,,28/09/2026 19:41
 bc4967b5-a65d-42ab-8b12-56bff20816c1,yucky.futbol,available,5.98,21.98,medium,low,5,namecheap,,,14/08/2026 10:51
 cc10492b-088b-4db9-8ec1-6718115bda08,pornographic.futbol,available,5.38,13.66,medium,low,12,spaceship,,,29/09/2026 20:53
@@ -120,6 +133,7 @@ a3e0cefb-d0e9-400a-b05c-2902956bc5ae,philosophical.futbol,available,7.49,17.99,h
 a6f8b0e5-05a9-47f4-a4c9-bd9a66665dc3,hallowed.futbol,available,5.98,21.98,high,low,8,namecheap,,,20/08/2026 22:52
 d213dc71-d724-47fd-97bd-5451eb2c2c7c,reward.futbol,available,5.98,21.98,high,low,6,namecheap,,,25/09/2026 07:57
 48be7229-028f-4e34-8d20-b2bd3b02e743,wilfrid.futbol,available,5.38,13.66,medium,low,7,spaceship,,,29/09/2026 09:35
+b0837112-5651-4b97-b437-c2b5796badbc,herbicide.futbol,available,5.98,21.98,high,low,9,namecheap,,,30/09/2026 17:35
 0b4f76a1-656d-4d2b-8f39-2d955e8836ad,fte.futbol,available,7.49,17.99,high,low,3,namesilo,,,29/09/2026 03:33
 7f62239a-3d34-425b-88fa-b79afa5ead40,clearing.futbol,available,7.49,17.99,high,low,8,namesilo,,,24/09/2026 15:28
 8e55a3b9-79be-4487-95a9-68eb0058a5b6,blewit.futbol,available,5.98,21.98,low,low,7,namecheap,,,17/09/2026 21:32
@@ -130,6 +144,7 @@ e45669c1-738c-4044-ae9a-41d3cfe0bd51,moonstruck.futbol,available,5.98,21.98,medi
 617f8292-80d9-4b60-b811-68b0b921fe87,tasted.futbol,available,5.66,13.9,medium,low,6,porkbun,,,29/09/2026 11:03
 0a200c29-8c0d-4eb9-b966-8c8e9dfcf16c,lex.futbol,available,5.38,13.66,high,medium,3,spaceship,,,29/09/2026 08:28
 0fd4e34b-cdc5-4e9f-a412-9e71a1d5c06e,ownerless.futbol,available,5.98,21.98,medium,low,9,namecheap,,,04/09/2026 22:18
+5ca9f3c5-134c-4d99-aabb-f92ffbfa1c50,sequences.futbol,available,5.66,13.9,medium,low,9,porkbun,,,30/09/2026 23:57
 4b319997-3b4b-4d56-bab8-79422359d2f6,economics.futbol,available,5.98,21.98,high,low,9,namecheap,,,28/09/2026 19:02
 4b7741de-d840-4551-bdee-8e192c7f70f1,weighed.futbol,available,7.49,17.99,medium,low,7,namesilo,,,28/09/2026 12:31
 63bb8a48-1908-4a36-9516-78e4ce1f9255,breakers.futbol,available,7.49,17.99,high,low,8,namesilo,,,30/09/2026 00:52
@@ -152,19 +167,21 @@ cc86d975-e84e-4b00-87bb-ce1716b46e67,gainfully.futbol,available,5.98,21.98,mediu
 a806e02f-ccd7-4c27-94c6-40541ee29130,gender.futbol,available,5.38,13.66,high,low,6,spaceship,,,28/09/2026 14:16
 bd14eebe-5cf6-49a6-a767-79584741657b,frankish.futbol,available,5.98,21.98,medium,low,8,namecheap,,,18/08/2026 14:14
 cbaa46b8-c18b-4c9f-9dc9-7654c28a5a49,publication.futbol,available,17.99,17.99,high,low,11,namesilo,,,
+638dbc38-f20b-4ac0-9fcd-5cd148876d2d,npa.futbol,available,5.57,14.13,high,low,3,dynadot,,,30/09/2026 18:11
 cc6ba47e-f9f3-4d53-bf3e-19a35f54dfb0,mccall.futbol,available,13.2,13.2,medium,low,6,cloudflare,,,27/09/2026 21:08
 1ef8eaab-3aa0-45ed-b4f1-2cf2dbdaafe4,rarest.futbol,available,7.49,17.99,medium,low,6,namesilo,,,20/09/2026 08:14
 d79b7e68-95a3-4306-a07d-cfdc681ce343,policemen.futbol,available,5.38,13.66,medium,low,9,spaceship,,,28/09/2026 18:03
 76e2b0d8-83e7-4283-be98-4dbbf21d4d1d,backflow.futbol,available,5.98,21.98,high,low,8,namecheap,,,21/09/2026 15:32
 ee223add-e88b-477c-b0fa-cd2981031b63,humanist.futbol,available,5.98,21.98,high,low,8,namecheap,,,21/08/2026 14:50
 13515260-089c-4c73-94a9-5e5dfe6c5597,closeness.futbol,available,7.49,17.99,high,low,9,namesilo,,,24/09/2026 15:57
-d6a9a5f1-d4ff-4891-b20b-b4263f96560f,northerly.futbol,available,5.98,21.98,high,low,9,namecheap,,,03/09/2026 21:23
+d6a9a5f1-d4ff-4891-b20b-b4263f96560f,northerly.futbol,available,5.98,21.98,medium,low,9,namecheap,,,03/09/2026 21:23
 b00d2337-e5a6-46e3-a2f2-cd0eda4dc03d,perfectly.futbol,available,7.49,17.99,high,low,9,namesilo,,,28/09/2026 11:37
 92552fe5-b76a-438f-904e-a0cd7df40aa6,lewis.futbol,available,5.98,21.98,high,low,5,namecheap,,,25/09/2026 03:55
 56027e96-2070-4795-8211-083a0552511f,conduction.futbol,available,5.38,13.66,high,low,10,spaceship,,,29/09/2026 10:47
 70852907-6362-4889-8d42-ae08ce314c3c,acarina.futbol,available,5.98,21.98,medium,low,7,namecheap,,,16/09/2026 21:31
 ddeccc54-157f-4857-990e-c76cb6f4a3f0,acrobates.futbol,available,7.49,17.99,medium,low,9,namesilo,,,17/09/2026 03:18
 66b2a335-4bfd-424f-9d39-0b4b560678ae,sweetness.futbol,available,5.57,14.13,high,low,9,dynadot,,,29/09/2026 00:59
+cfda3e3c-057e-4b78-8b16-549992388303,gst.futbol,available,7.49,17.99,medium,low,3,namesilo,,,30/09/2026 23:01
 cc2c5b11-c68d-4250-8f22-b5977224a029,forests.futbol,available,7.49,17.99,medium,low,7,namesilo,,,18/09/2026 06:04
 0e264051-7d06-478c-8395-1a455100f0f0,quality.futbol,available,7.49,17.99,high,low,7,namesilo,,,23/09/2026 14:21
 6db88f9c-fee7-4e20-b8db-e980e83977fc,swords.futbol,available,17.99,17.99,medium,low,6,namesilo,,,
@@ -177,7 +194,7 @@ fe2cc2b6-d11a-4aa7-bdb8-0711281b70c1,ammonia.futbol,available,5.98,21.98,high,lo
 c5294c44-93ac-4fe3-ab8b-1dbbc5c4a9be,proficiency.futbol,available,17.99,17.99,high,low,11,namesilo,,,
 9bc33348-02a4-4b48-aa83-df21e1af7f33,succinctly.futbol,available,5.98,21.98,medium,low,10,namecheap,,,16/09/2026 07:34
 67edd8b6-1220-4834-bcd5-720969135b22,accused.futbol,available,7.49,17.99,medium,low,7,namesilo,,,28/09/2026 17:31
-e0448064-eaa3-40a5-864f-0a5d97b1809e,occitan.futbol,available,5.98,21.98,high,low,7,namecheap,,,09/09/2026 04:30
+e0448064-eaa3-40a5-864f-0a5d97b1809e,occitan.futbol,available,5.98,21.98,medium,low,7,namecheap,,,09/09/2026 04:30
 8dee9010-0fef-4fd2-bd4c-40c4bedf24cf,bering.futbol,available,7.49,17.99,high,low,6,namesilo,,,23/09/2026 04:03
 30a704f8-93f2-483a-b74e-2fc3653d59f4,shuttered.futbol,available,5.98,21.98,medium,low,9,namecheap,,,10/09/2026 07:21
 9db0f4f6-85e2-464c-a473-9945f940b599,crucially.futbol,available,5.98,21.98,medium,low,9,namecheap,,,14/09/2026 09:50
@@ -186,6 +203,7 @@ e40a8c6c-f9b9-4b48-8958-781ac0c73b3d,budget.futbol,available,7.49,17.99,high,low
 23508238-734e-43be-82be-f3c1e46c1933,hominid.futbol,available,5.98,21.98,medium,low,7,namecheap,,,21/08/2026 12:39
 6c97e19b-8593-462d-9a97-27bf240cf505,overwhelming.futbol,available,7.49,17.99,high,low,12,namesilo,,,28/09/2026 07:20
 61e9b638-1fbe-436c-bc17-32d438264ecd,barrie.futbol,available,7.49,17.99,medium,low,6,namesilo,,,22/09/2026 08:37
+c2fb35ad-c227-4257-9145-406dcb89bbb2,louisville.futbol,available,7.49,17.99,high,low,10,namesilo,,,30/09/2026 10:28
 97d749ef-a718-48a0-8ab1-8b5d17382c77,alyssum.futbol,available,7.49,17.99,medium,low,7,namesilo,,,18/09/2026 15:23
 7a34f410-2357-4ac5-b4a8-578920d4eaae,divisible.futbol,available,5.98,21.98,high,low,9,namecheap,,,14/08/2026 13:57
 46542f78-992f-426a-8452-c9c2f89765aa,englewood.futbol,available,7.49,17.99,medium,low,9,namesilo,,,28/09/2026 16:54
@@ -207,16 +225,18 @@ c30450fa-7013-4a16-b79e-9fc1e4e8d635,nilpotent.futbol,available,5.98,21.98,mediu
 0661fe15-888a-4236-8f11-3b5f39862566,yet.futbol,available,5.98,21.98,high,low,3,namecheap,,,28/09/2026 11:53
 e76827f3-fd8a-46d5-9a60-9ee693c7ffb5,basaltic.futbol,available,5.98,21.98,medium,low,8,namecheap,,,08/08/2026 21:29
 5b16a8dd-8f1f-4232-b7c8-5c38381e91f3,buck.futbol,available,5.66,13.9,high,low,4,porkbun,,,29/09/2026 04:54
+e165c0f8-a893-4af1-a610-fa6c973a0d53,peddling.futbol,available,7.49,17.99,medium,low,8,namesilo,,,30/09/2026 02:33
 545efb71-d9d2-4481-8412-118b18a2b2eb,sufi.futbol,available,5.98,21.98,high,low,4,namecheap,,,11/09/2026 01:14
 39ea1431-2dc9-48de-8983-9265c1603cd1,unloaded.futbol,available,5.98,21.98,medium,low,8,namecheap,,,12/09/2026 15:03
 8e411fb0-e3b7-43b0-965c-c813bd416d34,peptic.futbol,available,5.98,21.98,medium,low,6,namecheap,,,08/09/2026 15:53
 d1f1e9e6-071c-4467-9adb-1f2075572898,mackay.futbol,available,5.98,21.98,medium,low,6,namecheap,,,25/09/2026 16:20
 839abc0d-60b7-4904-a022-eb86e0c13e06,penultima.futbol,available,5.98,21.98,medium,low,9,namecheap,,,08/09/2026 15:14
 e874b7ac-aeae-495c-80e6-41503ec31dc6,simplest.futbol,available,5.57,14.13,medium,low,8,dynadot,,,29/09/2026 22:50
-dbb0f3e9-1f0a-4a7b-8a36-764a4f904de7,satellites.futbol,available,17.99,17.99,high,low,10,namesilo,,,
+dbb0f3e9-1f0a-4a7b-8a36-764a4f904de7,satellites.futbol,available,17.99,17.99,medium,low,10,namesilo,,,
 019aff32-4d3c-4570-8035-1db257e22528,maharashtra.futbol,available,5.57,14.13,medium,low,11,dynadot,,,29/09/2026 03:41
-f302a184-0b2a-4d6b-8784-2bb2dc4967b1,breathe.futbol,available,17.99,17.99,high,low,7,namesilo,,,
-a7d36ab4-e43f-4e17-9e7a-c43e10f69bda,wayward.futbol,available,5.98,21.98,high,low,7,namecheap,,,13/09/2026 08:49
+f302a184-0b2a-4d6b-8784-2bb2dc4967b1,breathe.futbol,available,13.2,13.2,high,low,7,cloudflare,,,30/09/2026 16:28
+e799d553-8204-4d74-a284-f1957ed6f131,aoc.futbol,available,13.2,13.2,high,low,3,cloudflare,,,30/09/2026 19:51
+a7d36ab4-e43f-4e17-9e7a-c43e10f69bda,wayward.futbol,available,5.98,21.98,medium,low,7,namecheap,,,13/09/2026 08:49
 f3db9b93-ed4a-4e9e-b1e2-5080a47e9a4e,scaly.futbol,available,5.98,21.98,medium,low,5,namecheap,,,23/08/2026 00:05
 6bf180ef-69c6-4080-89d8-a5cedf4eb227,gabby.futbol,available,5.98,21.98,high,low,5,namecheap,,,12/08/2026 03:18
 100726b1-8591-40cf-ba79-78ac2eb7ec86,asexual.futbol,available,5.98,21.98,high,low,7,namecheap,,,07/08/2026 01:33
@@ -224,6 +244,8 @@ d13dadd9-89ae-4eaf-942e-0c52c3bc4afe,mitra.futbol,available,9.99,9.99,high,low,5
 440cbf5c-6d0a-4d69-82df-08ff2567fe66,shivaree.futbol,available,7.49,17.99,medium,low,8,namesilo,,,23/09/2026 06:07
 bfae6727-100f-4e55-90cb-71ff855c403f,male.futbol,available,7.49,17.99,high,low,4,namesilo,,,25/09/2026 16:34
 8047fd1d-9df2-4854-956a-9c202fa21c42,cried.futbol,available,13.2,13.2,medium,low,5,cloudflare,,,27/09/2026 23:35
+42c99675-0782-416b-a23c-e454ba0bc5e5,deprive.futbol,available,5.38,13.66,medium,low,7,spaceship,,,30/09/2026 18:51
+f3dc7071-2217-46ff-b11f-e7b459bb8486,kol.futbol,available,5.98,21.98,high,low,3,namecheap,,,30/09/2026 20:20
 e2bee5c5-42b5-4c4e-b0ee-6bc4a0a54cdc,bull.futbol,available,5.38,13.66,high,low,4,spaceship,,,29/09/2026 04:47
 ba414549-9ef3-4a29-ab0a-96e49ca42b56,callable.futbol,available,5.98,21.98,medium,low,8,namecheap,,,11/08/2026 14:26
 ad7b0065-82a0-436e-a4ca-2508edb90fb0,discussions.futbol,available,7.49,17.99,medium,low,11,namesilo,,,29/09/2026 16:36
@@ -239,7 +261,7 @@ cb05b10f-9f33-4a4e-9c92-a05054987185,subtly.futbol,available,7.49,17.99,medium,l
 54c2c8bf-8855-4434-9a95-f95eaa843b2c,newton.futbol,available,13.2,13.2,high,low,6,cloudflare,,,30/09/2026 00:24
 b4782fae-d8db-479c-bdfa-532b2b05483e,charioteer.futbol,available,7.49,17.99,high,low,10,namesilo,,,21/09/2026 04:25
 191b1b6b-3b21-414d-beca-7bfcef58148e,appetizing.futbol,available,5.98,21.98,high,low,10,namecheap,,,06/08/2026 06:45
-bb0c3b9e-c9fc-416d-8cd1-f4ab5a95b47a,demography.futbol,available,5.57,14.13,high,low,10,dynadot,,,28/09/2026 18:56
+bb0c3b9e-c9fc-416d-8cd1-f4ab5a95b47a,demography.futbol,available,5.57,14.13,medium,low,10,dynadot,,,28/09/2026 18:56
 c8688b76-7699-4019-bca8-90ac06397204,shallow.futbol,available,5.38,13.66,medium,low,7,spaceship,,,27/09/2026 20:23
 82f70fb8-8d18-4347-afe6-9c3831a84d33,psycho.futbol,available,5.98,21.98,high,low,6,namecheap,,,27/09/2026 07:59
 5b3be8c6-234d-4793-99ae-232c23b280c8,wells.futbol,available,7.49,17.99,high,low,5,namesilo,,,27/09/2026 04:19
@@ -248,6 +270,7 @@ c8fce73a-29ed-4382-952c-d66516fde99c,pouf.futbol,available,5.98,21.98,high,low,4
 401a4872-5fbd-44ee-bad6-69a78b2adbc5,metcalf.futbol,available,5.38,13.66,medium,low,7,spaceship,,,28/09/2026 18:20
 007809f5-8645-490a-8e69-860f324b2080,kokka.futbol,available,5.98,21.98,medium,low,5,namecheap,,,08/09/2026 07:02
 e5a09eda-7f13-4aac-a744-c91228926479,unwavering.futbol,available,5.98,21.98,high,low,10,namecheap,,,18/08/2026 05:12
+f862a9b2-4f1e-4f62-8712-27ebe50ce66b,cuffs.futbol,available,7.49,17.99,medium,low,5,namesilo,,,30/09/2026 14:55
 7afa507c-5e08-46ef-988d-9f3d39311492,manifesto.futbol,available,5.98,21.98,high,low,9,namecheap,,,30/09/2026 02:12
 8925cc7e-a5b1-4df9-a6f8-27c4a3e22740,foetid.futbol,available,5.98,21.98,medium,low,6,namecheap,,,18/08/2026 02:26
 ee44943e-c3b8-4ff7-8278-e5660db10190,bifacial.futbol,available,5.98,21.98,medium,low,8,namecheap,,,09/08/2026 19:57
@@ -262,9 +285,9 @@ ded3cd44-c3d7-4c6f-948c-fbe657acef61,germicide.futbol,available,5.98,21.98,mediu
 7165b445-79b1-41ce-bf39-2eeb136237af,cargo.futbol,available,7.49,17.99,high,low,5,namesilo,,,24/09/2026 12:56
 cc82fab9-f5bc-4297-9b85-e27433117418,multiplayer.futbol,available,17.99,17.99,high,low,11,namesilo,,,
 2ff8317e-3a03-4223-be45-2f845d58d4ac,solvent.futbol,available,5.98,21.98,high,low,7,namecheap,,,19/09/2026 16:47
-274cb6b2-5407-4a87-8943-9a66829c4892,pensive.futbol,available,5.98,21.98,high,low,7,namecheap,,,11/08/2026 06:00
+274cb6b2-5407-4a87-8943-9a66829c4892,pensive.futbol,available,5.98,21.98,medium,low,7,namecheap,,,11/08/2026 06:00
 38a46420-8ca2-49b0-949f-d2b24469bbee,vulvar.futbol,available,5.98,21.98,medium,low,6,namecheap,,,13/09/2026 07:29
-ed819538-aeea-42fa-9f81-afd7b6b5a248,palladio.futbol,available,5.98,21.98,high,low,8,namecheap,,,19/09/2026 04:26
+ed819538-aeea-42fa-9f81-afd7b6b5a248,palladio.futbol,available,5.98,21.98,medium,low,8,namecheap,,,19/09/2026 04:26
 0e5723af-c625-4e77-9b40-3ad85a4224b1,evident.futbol,available,5.98,21.98,high,low,7,namecheap,,,06/08/2026 05:13
 1a1a584e-32c1-4df6-b8e6-d670a0f664ca,odour.futbol,available,7.49,17.99,high,low,5,namesilo,,,20/09/2026 08:26
 4abc90f6-c1e4-4838-83af-38438d4eed82,dissolving.futbol,available,7.49,17.99,high,low,10,namesilo,,,24/09/2026 23:08
@@ -273,7 +296,7 @@ d2983bd0-b378-4b3b-abc1-f98c2861b80f,apprehend.futbol,available,7.49,17.99,high,
 6f39d29f-d4d2-49b1-9023-40f639d68c22,contend.futbol,available,5.38,13.66,high,low,7,spaceship,,,29/09/2026 11:25
 1f49e370-d266-425e-8a85-8032c834bf64,curved.futbol,available,5.98,21.98,high,low,6,namecheap,,,13/08/2026 11:47
 3572a36a-70b2-4ea3-b01c-bbcbe97ccbd1,european.futbol,premium,242,242,high,low,8,namesilo,,,24/09/2026 15:26
-5b3bdf09-6948-4c4b-a684-294a03f76964,contempt.futbol,available,5.38,13.66,high,low,8,spaceship,,,29/09/2026 11:21
+5b3bdf09-6948-4c4b-a684-294a03f76964,contempt.futbol,available,5.38,13.66,medium,low,8,spaceship,,,29/09/2026 11:21
 9824cfdf-0b58-41dd-b198-0222dbf19328,checklist.futbol,available,5.38,13.66,high,low,9,spaceship,,,29/09/2026 08:35
 6e1b5340-f887-42d3-a2dc-5b0384f824af,regulatory.futbol,available,5.98,21.98,high,low,10,namecheap,,,09/09/2026 13:17
 7de7c0b6-b7a0-447b-9c3d-574b3318fb2e,meager.futbol,available,5.98,21.98,medium,low,6,namecheap,,,24/08/2026 18:02
@@ -281,9 +304,10 @@ d77eb0b8-745c-42e0-ad1c-cade048054e3,uncritical.futbol,available,5.98,21.98,medi
 1ba84901-61a0-47a8-ad1c-72352d16d4b6,cryonic.futbol,available,5.98,21.98,medium,low,7,namecheap,,,13/08/2026 09:37
 a1d87e20-c4f7-40e4-886b-d7254c54f13d,hooter.futbol,available,7.49,17.99,high,low,6,namesilo,,,21/09/2026 07:22
 2480884a-3dee-48ff-91ea-d26fc90473c2,karel.futbol,available,5.57,14.13,high,low,5,dynadot,,,29/09/2026 09:01
-f1643464-31b1-4060-b017-9d0a64ec8efd,powdered.futbol,available,7.49,17.99,high,low,8,namesilo,,,19/09/2026 15:51
+f1643464-31b1-4060-b017-9d0a64ec8efd,powdered.futbol,available,7.49,17.99,medium,low,8,namesilo,,,19/09/2026 15:51
+d1bf4a08-8e82-4c46-92de-6ea4fecbd2e4,defoe.futbol,available,5.57,14.13,medium,low,5,dynadot,,,30/09/2026 16:57
 95f099ed-b069-4feb-baf9-692982644d5c,memorably.futbol,available,5.98,21.98,medium,low,9,namecheap,,,15/09/2026 14:01
-f1b92d87-0231-48d2-817f-8f563bb5c2fb,weaponry.futbol,available,7.49,17.99,high,low,8,namesilo,,,20/09/2026 07:43
+f1b92d87-0231-48d2-817f-8f563bb5c2fb,weaponry.futbol,available,7.49,17.99,medium,low,8,namesilo,,,20/09/2026 07:43
 5a99f572-e055-44a4-8024-26a0975337e0,classless.futbol,available,5.98,21.98,medium,low,9,namecheap,,,12/08/2026 09:48
 6a067d76-1dcb-4b8b-8e09-8984c84b6eaa,agnatic.futbol,available,5.98,21.98,medium,low,7,namecheap,,,
 bf548da8-c758-4d20-bf1d-be87e3ab02f5,lane.futbol,available,7.49,17.99,high,low,4,namesilo,,,30/09/2026 02:05
@@ -306,78 +330,87 @@ e58951f4-9a82-4086-a1c8-0ee6a7d4a2a6,bounded.futbol,available,5.98,21.98,medium,
 18b17449-b55e-4736-8336-e0bdbaa49312,plotting.futbol,available,5.38,13.66,medium,low,8,spaceship,,,29/09/2026 05:11
 8f69a894-ed18-4a03-970b-8c71918aea58,defended.futbol,available,13.2,13.2,medium,low,8,cloudflare,,,29/09/2026 05:23
 eacab756-9c63-4552-adc5-1ac5813a6a8a,perceptive.futbol,available,5.98,21.98,high,low,10,namecheap,,,08/09/2026 16:12
-0d859d40-66eb-474c-b31e-f2a94ec85b58,penetrating.futbol,available,7.49,17.99,high,low,11,namesilo,,,29/09/2026 14:35
+0d859d40-66eb-474c-b31e-f2a94ec85b58,penetrating.futbol,available,7.49,17.99,medium,low,11,namesilo,,,29/09/2026 14:35
 920c3dc7-bfed-4b8c-94d2-ea11764275c8,hereafter.futbol,available,5.98,21.98,high,low,9,namecheap,,,18/08/2026 19:10
 e6af55e9-04f3-440e-9b7c-0282378ddbf2,battered.futbol,available,5.98,21.98,medium,low,8,namecheap,,,22/09/2026 18:12
 fe0171af-3507-4bfb-a99a-5d564915846a,terminate.futbol,available,5.57,14.13,medium,low,9,dynadot,,,28/09/2026 14:01
 ef44280f-e3af-4a59-b34e-8344888a642b,tbsp.futbol,available,7.49,17.99,medium,low,4,namesilo,,,18/09/2026 08:20
+2a5f8dc2-fd99-4369-b1f4-a15c2291c955,rostov.futbol,available,7.49,17.99,medium,low,6,namesilo,,,30/09/2026 02:44
 2cf10652-be54-4123-91e1-9089b710c75b,dighted.futbol,available,5.98,21.98,low,low,7,namecheap,,,14/08/2026 07:17
-e3ded318-8f9f-43aa-ab02-5ab4419ae839,believe.futbol,available,19.99,,high,low,7,name.com,,,
+e3ded318-8f9f-43aa-ab02-5ab4419ae839,believe.futbol,available,5.38,13.66,high,low,7,spaceship,,,30/09/2026 13:14
 f321ab96-9601-4d22-9169-29f0420637e3,bleary.futbol,available,5.98,21.98,medium,low,6,namecheap,,,10/08/2026 13:59
+cc8da3df-31f7-4793-a12f-98657ba880f0,aau.futbol,available,5.66,13.9,high,low,3,porkbun,,,30/09/2026 20:29
 70b8bd65-f1e1-4a56-aa18-311d45d129ca,thump.futbol,available,5.98,21.98,high,low,5,namecheap,,,11/09/2026 15:06
 464b5741-cca9-4ca4-bef0-b605e0d952c6,rockers.futbol,available,7.49,17.99,high,low,7,namesilo,,,23/09/2026 15:34
 feb8ffe0-ecf9-471b-aa84-3bdf507dc933,repugnant.futbol,available,5.98,21.98,medium,low,9,namecheap,,,
+3324f65f-0e7b-4e5d-80cf-035729aedfb7,fished.futbol,available,5.98,21.98,medium,low,6,namecheap,,,01/10/2026 00:50
 d55c2b01-30b2-4890-8187-e54819d7d6ef,manifold.futbol,available,5.98,21.98,high,low,8,namecheap,,,24/08/2026 15:07
 5f4dbb70-59a3-481d-becd-74733fe49142,excited.futbol,available,7.49,17.99,high,low,7,namesilo,,,24/09/2026 15:55
 a4af8898-0c3e-42aa-86d7-871e6f460ba9,erosive.futbol,available,5.98,21.98,medium,low,7,namecheap,,,13/08/2026 02:09
 42e05917-8860-4bba-930a-f5ebec28265e,quadruple.futbol,available,5.98,21.98,high,low,9,namecheap,,,18/08/2026 13:24
-14f0d705-82e1-435c-ba21-232bd6a27824,normality.futbol,available,17.99,17.99,high,low,9,namesilo,,,
+14f0d705-82e1-435c-ba21-232bd6a27824,normality.futbol,available,7.49,17.99,high,low,9,namesilo,,,30/09/2026 05:51
 242b72b7-40de-493b-97fe-459a8c0cd66c,berk.futbol,available,5.98,21.98,medium,low,4,namecheap,,,23/09/2026 09:31
 b6789776-cac3-47fe-b7d7-add3b0a22835,afp.futbol,available,5.98,21.98,high,low,3,namecheap,,,17/09/2026 15:12
-cc0cf1d3-3f5a-4465-9075-d3053ce0f372,influenza.futbol,available,13.2,13.2,high,low,9,cloudflare,,,30/09/2026 01:39
+cc0cf1d3-3f5a-4465-9075-d3053ce0f372,influenza.futbol,available,13.2,13.2,medium,low,9,cloudflare,,,30/09/2026 01:39
 a10c1a1d-c85c-4698-8a16-1d7991075237,respectable.futbol,available,7.49,17.99,high,low,11,namesilo,,,28/09/2026 11:23
-301e7f06-be69-4418-805e-66e376d2de24,mop.futbol,available,19.99,,high,low,3,name.com,,,
+301e7f06-be69-4418-805e-66e376d2de24,mop.futbol,available,7.49,17.99,high,low,3,namesilo,,,30/09/2026 05:15
 1cf55b44-3d75-4618-855f-827313bce2d4,bloom.futbol,available,9.99,24.99,high,medium,5,name.com,,,22/09/2026 22:34
 2d8b5db5-a6ce-436d-9f45-7aa2ba4d4ad6,outmoded.futbol,available,5.98,21.98,medium,low,8,namecheap,,,14/08/2026 01:15
 7a237d94-bf27-46e6-b95d-72ab414f6cee,returned.futbol,available,17.99,17.99,high,low,8,namesilo,,,
 31e4a04d-2dd1-4d86-98ae-a05e23c051a8,glove.futbol,available,5.38,13.66,high,low,5,spaceship,,,29/09/2026 01:21
 5668ecb9-1069-4dbc-b4f7-3fc765a728bf,cristo.futbol,available,5.38,13.66,high,low,6,spaceship,,,29/09/2026 11:33
-285ec431-2a3b-4a45-801c-365d89935998,sep.futbol,available,17.99,17.99,high,low,3,namesilo,,,
-2967f35f-d2bb-4034-ab16-7946e56c8a33,episodic.futbol,available,5.98,21.98,high,low,8,namecheap,,,17/08/2026 11:11
+285ec431-2a3b-4a45-801c-365d89935998,sep.futbol,available,5.57,14.13,high,low,3,dynadot,,,30/09/2026 10:56
+2967f35f-d2bb-4034-ab16-7946e56c8a33,episodic.futbol,available,5.98,21.98,medium,low,8,namecheap,,,17/08/2026 11:11
 a9d7ce9d-beb7-49e7-b8ec-dff10cd43d59,fallacious.futbol,available,5.98,21.98,medium,low,10,namecheap,,,13/08/2026 21:08
 23cb3425-f40e-4119-a17a-1324886921c5,bombs.futbol,available,9.99,24.99,medium,low,5,name.com,,,25/09/2026 21:33
-026e973a-826f-4ed7-91a7-810b4a362508,profession.futbol,available,17.99,17.99,high,low,10,namesilo,,,
+026e973a-826f-4ed7-91a7-810b4a362508,profession.futbol,available,7.49,17.99,high,low,10,namesilo,,,30/09/2026 07:31
 5df1099b-9371-4de6-a55c-b3518bbdb284,pubmed.futbol,available,17.99,17.99,high,low,6,namesilo,,,
-9361ae90-473c-4e45-afca-4a3bb9abc946,thirties.futbol,available,7.49,17.99,high,low,8,namesilo,,,16/09/2026 12:05
+9361ae90-473c-4e45-afca-4a3bb9abc946,thirties.futbol,available,7.49,17.99,medium,low,8,namesilo,,,16/09/2026 12:05
 885cc585-420b-4b72-af37-ee15ed549347,popped.futbol,available,7.49,17.99,medium,low,6,namesilo,,,29/09/2026 11:00
 ebd44435-3b4e-41b8-8e78-0fbd0e695db9,pungent.futbol,available,5.98,21.98,high,low,7,namecheap,,,
 4233d6ad-ce3f-41c8-9456-1e8d8e41f7a0,honorary.futbol,available,5.98,21.98,high,low,8,namecheap,,,21/08/2026 13:29
 786e1971-0c77-42a1-b464-13b269c2197f,inertial.futbol,available,5.98,21.98,medium,low,8,namecheap,,,22/08/2026 03:59
 458285c7-7199-4ef6-a57e-cdae408c7f4d,fit.futbol,available,5.98,21.98,high,medium,3,namecheap,,,24/09/2026 18:48
 ed226d05-d5e1-4869-b2de-24d273b36050,hua.futbol,available,5.98,21.98,high,low,3,namecheap,,,18/09/2026 01:18
+08a7e3e9-3c14-4c6d-8a12-6eca9ebea928,asses.futbol,available,5.98,21.98,low,low,5,namecheap,,,30/09/2026 15:16
+5b735650-98e9-4e59-9b6b-89d1c4bbfe7c,ridley.futbol,available,5.38,13.66,high,low,6,spaceship,,,30/09/2026 02:43
 a7941114-bdcc-4b8c-b848-1326b646c379,argive.futbol,available,5.98,21.98,medium,low,6,namecheap,,,06/08/2026 18:27
 db35e189-614f-4a59-abd8-1f91971ab5b6,voters.futbol,available,5.38,13.66,medium,low,6,spaceship,,,29/09/2026 10:41
 f7c20084-6928-4f1e-b07e-aaf3a9342985,punctuate.futbol,available,7.49,17.99,high,low,9,namesilo,,,16/09/2026 21:54
 0523d537-7397-4460-a175-831e724947dd,compare.futbol,available,7.49,17.99,high,low,7,namesilo,,,24/09/2026 16:43
 d92021e8-a65c-42dc-a639-76298b40f0d8,diminuendo.futbol,available,5.98,21.98,medium,low,10,namecheap,,,13/08/2026 22:19
-15083a14-1a4a-4c31-8a3b-9819032f0545,rabies.futbol,available,13.2,13.2,high,low,6,cloudflare,,,29/09/2026 19:34
+15083a14-1a4a-4c31-8a3b-9819032f0545,rabies.futbol,available,13.2,13.2,medium,low,6,cloudflare,,,29/09/2026 19:34
 ba1ae4e6-ae31-4a54-818b-2aa82ba5cd25,deceived.futbol,available,5.38,13.66,low,low,8,spaceship,,,29/09/2026 23:13
 fcf2af57-7385-4036-a71f-3cf2c901dd15,hattie.futbol,available,5.38,13.66,medium,low,6,spaceship,,,29/09/2026 09:38
 0585c6eb-4127-40b2-9881-2529a0ca2541,admission.futbol,available,7.49,17.99,high,low,9,namesilo,,,16/09/2026 22:12
 00ee578a-7a79-4826-bda0-52584f4ba60d,favours.futbol,available,7.49,17.99,high,low,7,namesilo,,,17/09/2026 23:24
 aec8e8fd-44ac-486c-b96a-1fbc72e6e44a,began.futbol,available,17.99,17.99,medium,low,5,namesilo,,,
+8f63d02d-2168-48e1-a660-49b57f1a5d07,pac.futbol,available,13.2,13.2,high,low,3,cloudflare,,,30/09/2026 10:47
 e129fee7-a8a3-4822-b6a9-7800e175416a,hegel.futbol,available,7.49,17.99,medium,low,5,namesilo,,,28/09/2026 14:17
 aa9ff8a4-b84f-47be-a62c-bf1639cae2ee,physical.futbol,available,5.98,21.98,high,low,8,namecheap,,,08/09/2026 15:48
 7d0c993d-fdf3-4a04-a941-4bad83f7150d,belle.futbol,available,7.49,17.99,high,low,5,namesilo,,,23/09/2026 06:02
+d1b84c12-4bff-40d0-98a5-fd5e8d316c68,sedation.futbol,available,7.49,17.99,medium,low,8,namesilo,,,01/10/2026 01:49
 12349e33-fc85-4de9-bb0c-264e93508211,diversely.futbol,available,5.98,21.98,medium,low,9,namecheap,,,14/09/2026 13:25
 7d3d71d5-cc65-4108-9ad3-88bcaccb9b3e,arboreous.futbol,available,5.98,21.98,medium,low,9,namecheap,,,06/08/2026 12:59
-5529c2d7-bf70-4427-8864-5d7adda75968,frothy.futbol,available,5.98,21.98,high,low,6,namecheap,,,11/08/2026 07:22
+5529c2d7-bf70-4427-8864-5d7adda75968,frothy.futbol,available,5.98,21.98,medium,low,6,namecheap,,,11/08/2026 07:22
 81412e9b-9a76-4170-bb94-98bed8b6fc91,woeful.futbol,available,5.98,21.98,medium,low,6,namecheap,,,17/08/2026 16:46
-cfce6d00-dd31-429a-83d9-e13e8dc7cc9e,fail.futbol,available,5.38,13.66,high,low,4,spaceship,,,29/09/2026 19:36
+cfce6d00-dd31-429a-83d9-e13e8dc7cc9e,fail.futbol,available,5.38,13.66,medium,low,4,spaceship,,,29/09/2026 19:36
 44bd4912-b1cb-4e27-95d1-cccf57d7ef77,binful.futbol,available,7.49,17.99,medium,low,6,namesilo,,,23/09/2026 17:14
-84c01146-2ac4-406c-b82a-797bf285a5f6,constructed.futbol,available,7.49,17.99,high,low,11,namesilo,,,29/09/2026 16:21
+8c176532-35d9-4702-9211-fe916872b368,bamberg.futbol,available,5.38,13.66,medium,low,7,spaceship,,,30/09/2026 13:25
+84c01146-2ac4-406c-b82a-797bf285a5f6,constructed.futbol,available,7.49,17.99,medium,low,11,namesilo,,,29/09/2026 16:21
 b3b18944-52d6-4282-b6f8-cbba961b5a9d,witless.futbol,available,5.98,21.98,medium,low,7,namecheap,,,03/09/2026 17:49
 279a37c6-d5ba-4a41-8395-5e59dd3bd4ea,bifurcate.futbol,available,5.98,21.98,high,low,9,namecheap,,,09/08/2026 20:08
 8bd05ff5-f757-46a9-a81b-8678ade039e0,fanned.futbol,available,5.98,21.98,high,low,6,namecheap,,,17/08/2026 22:09
-4c439131-3f70-4dc4-bab9-ed38863c8ebd,since.futbol,available,17.99,17.99,high,low,5,namesilo,,,
+4c439131-3f70-4dc4-bab9-ed38863c8ebd,since.futbol,available,13.2,13.2,high,low,5,cloudflare,,,30/09/2026 22:14
 d869cdb4-7549-4fda-aa8b-557730c3445b,binet.futbol,available,5.98,21.98,medium,low,5,namecheap,,,18/09/2026 06:25
 2ec43006-1b1c-400a-ae1e-bd6777dc9f89,unwell.futbol,available,5.98,21.98,medium,low,6,namecheap,,,
 ebf9b003-3c8d-4928-af7d-fe7adbb1e726,costing.futbol,available,5.38,13.66,high,low,7,spaceship,,,29/09/2026 18:29
 93148823-56eb-4c16-abff-6c06a63ae699,mutely.futbol,available,5.98,21.98,medium,low,6,namecheap,,,15/09/2026 15:47
 93b2d75b-8a13-4629-bb7b-3423e470abed,pigeons.futbol,available,7.49,17.99,medium,low,7,namesilo,,,20/09/2026 07:08
 e5f198db-bb9d-42cc-a9fe-3ffa08712059,lyons.futbol,available,7.49,17.99,high,low,5,namesilo,,,25/09/2026 06:03
-16ba4a0b-4983-458b-8a95-49843ae83d5e,shush.futbol,available,17.99,17.99,medium,low,5,namesilo,,,
+16ba4a0b-4983-458b-8a95-49843ae83d5e,shush.futbol,available,5.57,14.13,medium,low,5,dynadot,,,30/09/2026 21:25
 e441810b-89ba-4b80-abf4-40be117a96e6,commodity.futbol,available,5.38,13.66,high,low,9,spaceship,,,29/09/2026 10:26
+0594dfdd-af4a-4b95-afc4-da4656bac68e,quartz.futbol,available,13.2,13.2,high,low,6,cloudflare,,,30/09/2026 10:24
 f797aa36-ee78-49c0-a385-3aa749148e5c,palace.futbol,available,7.49,17.99,high,low,6,namesilo,,,29/09/2026 07:39
 7e366130-1a2a-4861-a9cc-430bbfb03472,coating.futbol,available,5.38,13.66,high,low,7,spaceship,,,30/09/2026 01:04
 34551432-5af8-4075-b81d-3e7284020e40,murderer.futbol,available,5.98,21.98,medium,low,8,namecheap,,,25/09/2026 08:59
@@ -389,44 +422,50 @@ f797aa36-ee78-49c0-a385-3aa749148e5c,palace.futbol,available,7.49,17.99,high,low
 eee1a7c6-beca-4ae5-a569-a8e8b0ed6f65,municipal.futbol,available,5.98,21.98,high,low,9,namecheap,,,03/09/2026 10:58
 bb4e810f-406b-49ee-b9cd-f41e94238ebf,apologies.futbol,available,5.38,13.66,high,low,9,spaceship,,,29/09/2026 03:19
 bf1f04a9-4af5-4239-8c1b-3c1b01def16a,charger.futbol,available,7.49,17.99,high,low,7,namesilo,,,22/09/2026 14:35
-8e47902e-19b5-43ae-9b03-1fc1b2f3d08e,rangy.futbol,available,5.98,21.98,high,low,5,namecheap,,,18/08/2026 20:13
+8e47902e-19b5-43ae-9b03-1fc1b2f3d08e,rangy.futbol,available,5.98,21.98,medium,low,5,namecheap,,,18/08/2026 20:13
 a4212d9b-74da-43d6-bee5-c9a3896858d8,bosh.futbol,available,5.98,21.98,medium,low,4,namecheap,,,21/09/2026 23:47
 9a5e0bf4-5db4-42b4-bd9f-1b026c6d20ce,exaggerated.futbol,available,5.66,13.9,medium,low,11,porkbun,,,29/09/2026 14:24
-163aee0d-0339-41b4-a018-2db67c497c75,envious.futbol,available,5.98,21.98,high,low,7,namecheap,,,24/09/2026 01:02
-6d8e1a55-8144-4e09-81e3-41d34464f48a,stephenson.futbol,available,7.49,17.99,high,low,10,namesilo,,,25/09/2026 06:30
+6f0024e5-387d-416e-86f8-6c9573ac2ad0,dsl.futbol,available,5.57,14.13,high,low,3,dynadot,,,01/10/2026 01:45
+163aee0d-0339-41b4-a018-2db67c497c75,envious.futbol,available,5.98,21.98,medium,low,7,namecheap,,,24/09/2026 01:02
+6d8e1a55-8144-4e09-81e3-41d34464f48a,stephenson.futbol,available,7.49,17.99,medium,low,10,namesilo,,,25/09/2026 06:30
 9bc3f027-eb0f-4ba1-a2b6-4b6c49ef2c5e,vested.futbol,available,5.98,21.98,high,low,6,namecheap,,,13/09/2026 04:49
-5cada01a-6618-4077-b1b8-21eb3e5c9bf8,swansea.futbol,available,7.49,17.99,high,low,7,namesilo,,,28/09/2026 10:58
+5cada01a-6618-4077-b1b8-21eb3e5c9bf8,swansea.futbol,available,7.49,17.99,medium,low,7,namesilo,,,28/09/2026 10:58
 bbc88a78-8772-47d2-92d1-4cb225f30d66,xxxiii.futbol,available,5.98,21.98,medium,low,6,namecheap,,,
 7c92657a-6abf-48b9-a0c9-121f0e3bc8af,alb.futbol,available,5.98,21.98,high,low,3,namecheap,,,18/09/2026 02:20
-7e5cc335-16da-4211-8400-e710c2abf52e,eindhoven.futbol,available,13.2,13.2,high,low,9,cloudflare,,,30/09/2026 01:28
+7e5cc335-16da-4211-8400-e710c2abf52e,eindhoven.futbol,available,13.2,13.2,medium,low,9,cloudflare,,,30/09/2026 01:28
 005f78fe-2c01-4ad2-b2eb-f2e2e7b8e652,sterilization.futbol,available,7.49,17.99,high,low,13,namesilo,,,16/09/2026 21:54
 2aa96857-3b70-473c-b638-84aaa490e549,disco.futbol,available,7.49,17.99,high,low,5,namesilo,,,29/09/2026 15:27
+1bbe0499-1d2e-447d-8247-5e31a60b0637,viewed.futbol,available,5.38,13.66,high,low,6,spaceship,,,30/09/2026 03:50
 fcc1f857-eacd-4bd0-9980-71415ff4d154,renew.futbol,available,7.49,17.99,high,low,5,namesilo,,,19/09/2026 08:23
 463921a6-504c-4148-b9fb-513f7914f12b,eroding.futbol,available,5.98,21.98,medium,low,7,namecheap,,,13/09/2026 09:08
 2ed5213b-d280-4012-b727-c6e7ab9e9cd4,jen.futbol,available,7.49,17.99,high,low,3,namesilo,,,28/09/2026 03:57
-bf5dc8f5-29fa-42aa-95a9-e2abda1ee9ab,cripple.futbol,available,5.98,21.98,high,low,7,namecheap,,,22/08/2026 18:58
+bf5dc8f5-29fa-42aa-95a9-e2abda1ee9ab,cripple.futbol,available,5.98,21.98,medium,low,7,namecheap,,,22/08/2026 18:58
 b515a37c-8f5d-43f9-b400-ee9ff042eb91,duffy.futbol,available,7.49,17.99,high,low,5,namesilo,,,29/09/2026 03:40
 3c4e4cbd-7976-43ed-b9ff-a5be33cd0fda,outcast.futbol,available,5.98,21.98,high,low,7,namecheap,,,18/08/2026 15:35
 5681e5fd-431d-4327-b78b-b5af57204615,jesus.futbol,available,5.38,13.66,high,medium,5,spaceship,,,29/09/2026 09:01
 2339199f-bf8d-44c6-9023-6c9558e34652,companion.futbol,available,7.49,17.99,high,low,9,namesilo,,,24/09/2026 16:40
 81186dd9-87df-497d-b99f-927367123d0c,innermost.futbol,available,5.98,21.98,medium,low,9,namecheap,,,22/08/2026 05:53
+ce3f0673-04c7-4299-b200-f95285ebe28c,inquire.futbol,available,5.57,14.13,high,low,7,dynadot,,,30/09/2026 19:07
 9e437c19-83ad-4c24-a3b8-bb1d41ad9b69,hutchinson.futbol,available,7.49,17.99,high,low,10,namesilo,,,19/09/2026 10:20
-3cc6250e-e56a-4859-843f-5a04d221f382,remain.futbol,available,19.99,,high,low,6,name.com,,,
-c2a32ef0-a107-42b3-8d10-a247a3159028,jibe.futbol,available,5.98,21.98,high,low,4,namecheap,,,22/09/2026 04:14
+3cc6250e-e56a-4859-843f-5a04d221f382,remain.futbol,available,7.49,17.99,high,low,6,namesilo,,,30/09/2026 11:54
+c2a32ef0-a107-42b3-8d10-a247a3159028,jibe.futbol,available,5.98,21.98,medium,low,4,namecheap,,,22/09/2026 04:14
 1a56d247-3a5d-4a78-9d44-7b29be5bd65a,scipio.futbol,available,7.49,17.99,medium,low,6,namesilo,,,29/09/2026 13:43
-2ff6c812-4018-4581-a978-8cc38aca14cb,rep.futbol,available,17.99,17.99,high,low,3,namesilo,,,
+2ff6c812-4018-4581-a978-8cc38aca14cb,rep.futbol,available,7.49,17.99,high,low,3,namesilo,,,30/09/2026 09:50
 1890e0dd-b6e2-46ae-b1ae-3468bf1f031a,daley.futbol,available,13.2,13.2,high,low,5,cloudflare,,,28/09/2026 11:42
 ceaa255e-50ed-4bf1-ab4a-6274a02cf238,qatari.futbol,available,5.98,21.98,high,low,6,namecheap,,,22/08/2026 15:09
 f7def686-6951-4be9-8c5b-1dd74815ef58,goodman.futbol,available,5.98,21.98,high,low,7,namecheap,,,23/09/2026 08:16
 9bd50f41-1767-49a7-bd5c-8e7efcc786d3,santa.futbol,available,13.2,13.2,high,low,5,cloudflare,,,29/09/2026 19:01
+03cba82a-a244-4be3-bc4c-9bb6cc647929,alarms.futbol,available,7.49,17.99,medium,low,6,namesilo,,,30/09/2026 07:16
+27bd9b01-dab0-47d4-b074-1900a8c5901b,energies.futbol,available,7.49,17.99,high,low,8,namesilo,,,30/09/2026 06:48
 a8f2d244-055e-4438-91ca-728a7a3b6f81,riparian.futbol,available,5.98,21.98,high,low,8,namecheap,,,09/09/2026 17:53
-fba3264d-daa9-4d1e-8bf1-d9ede24d98ec,overjoy.futbol,available,17.99,17.99,high,low,7,namesilo,,,
+fba3264d-daa9-4d1e-8bf1-d9ede24d98ec,overjoy.futbol,available,5.38,13.66,high,low,7,spaceship,,,30/09/2026 21:15
 398670a7-a58e-4959-b8e8-73b0be10838c,boys.futbol,available,7.49,17.99,high,low,4,namesilo,,,25/09/2026 17:34
 b8a34dee-53c5-4992-a66b-5d6802a68a81,bedamn.futbol,available,9.99,24.99,medium,low,6,name.com,,,13/08/2026 16:21
-62e775c1-3ac1-476e-b837-3ec5654836d9,vest.futbol,available,5.98,21.98,high,low,4,namecheap,,,28/09/2026 10:51
+62e775c1-3ac1-476e-b837-3ec5654836d9,vest.futbol,available,5.98,21.98,medium,low,4,namecheap,,,28/09/2026 10:51
 79453c2b-8361-42ff-9533-883742d7257f,sphincter.futbol,available,7.49,17.99,medium,low,9,namesilo,,,19/09/2026 03:31
 76d3f80f-eda4-4927-8b5b-732ebd06b850,peckham.futbol,available,5.38,13.66,medium,low,7,spaceship,,,30/09/2026 00:26
-de9e29df-3988-44cf-8b0b-84d431cd3559,hospitals.futbol,available,7.49,17.99,high,low,9,namesilo,,,20/09/2026 04:37
+cdabb459-63d5-4d67-bf3e-2af3cee55b96,soften.futbol,available,7.49,17.99,high,low,6,namesilo,,,30/09/2026 09:18
+de9e29df-3988-44cf-8b0b-84d431cd3559,hospitals.futbol,available,7.49,17.99,medium,low,9,namesilo,,,20/09/2026 04:37
 fbb1832c-3851-41a9-a22e-1fb81a8f01de,crashing.futbol,available,5.38,13.66,medium,low,8,spaceship,,,28/09/2026 11:33
 6fa75977-ab8c-442e-adb9-2931fe17c286,appreciate.futbol,available,7.49,17.99,high,low,10,namesilo,,,27/09/2026 06:44
 c5cdbdac-789b-4d95-9a3b-e32b12d1ac21,actin.futbol,available,7.49,17.99,medium,low,5,namesilo,,,17/09/2026 04:37
@@ -434,6 +473,7 @@ c5cdbdac-789b-4d95-9a3b-e32b12d1ac21,actin.futbol,available,7.49,17.99,medium,lo
 0a101212-bbf6-4dd7-a09b-451442e834cc,balfour.futbol,available,7.49,17.99,medium,low,7,namesilo,,,16/09/2026 12:19
 e7aebcac-a5c1-4e04-9b31-97a1a183d35e,betrothed.futbol,available,5.98,21.98,high,low,9,namecheap,,,09/08/2026 18:07
 5b5ffa7c-9940-4640-8272-c12dbf19f5b2,razed.futbol,available,5.98,21.98,medium,low,5,namecheap,,,14/08/2026 01:24
+aebba11b-50c8-4636-856c-11e986696d1d,svp.futbol,available,5.38,13.66,high,low,3,spaceship,,,30/09/2026 12:33
 5b467dda-6356-4794-a1e5-0fe3823a025b,feat.futbol,available,13.2,13.2,high,low,4,cloudflare,,,30/09/2026 01:35
 c04b0ee3-694a-4d6b-a2d1-83f5f7d10b91,otis.futbol,available,5.98,21.98,high,low,4,namecheap,,,25/09/2026 05:28
 a128b8ec-fd93-4a6a-bac6-e00f058c6a49,untold.futbol,available,5.98,21.98,high,low,6,namecheap,,,12/09/2026 21:37
@@ -446,6 +486,7 @@ ca52619a-6b44-4469-8e44-5fff24cd10bc,cheerio.futbol,available,5.98,21.98,high,lo
 90eabae2-e888-4ea4-ab94-0d6371994d4b,dimorphic.futbol,available,5.98,21.98,medium,low,9,namecheap,,,14/08/2026 08:09
 df619884-26c5-4e9e-8dd6-e816896b93ce,vexed.futbol,available,5.98,21.98,medium,low,5,namecheap,,,21/08/2026 00:15
 7b8222e3-5b85-4ef5-83d8-e013b820fba6,reticent.futbol,available,5.38,13.66,medium,low,8,spaceship,,,27/09/2026 12:59
+91b8f7c2-6a4d-44db-993f-bd244fc53284,himalaya.futbol,available,7.49,17.99,high,low,8,namesilo,,,01/10/2026 02:35
 1f79baa5-f183-4334-b3e4-a1ae0e1c2ad3,etcetera.futbol,available,5.98,21.98,high,low,8,namecheap,,,13/09/2026 19:52
 a553e365-4417-4913-9f44-cdcb0a02daaa,midland.futbol,available,5.98,21.98,high,low,7,namecheap,,,24/08/2026 22:36
 9176bdd4-8123-41ad-bfbf-4535e640323c,unchained.futbol,available,5.98,21.98,high,low,9,namecheap,,,12/09/2026 04:54
@@ -464,9 +505,12 @@ c447f580-ea46-4d41-8633-5d1745db0577,scots.futbol,available,5.98,21.98,high,low,
 a70e8094-96c1-419b-880e-623476b5626c,raises.futbol,available,7.49,17.99,medium,low,6,namesilo,,,29/09/2026 10:51
 7de7377a-a0af-42ab-ade3-cae385c9e314,almaty.futbol,available,7.49,17.99,medium,low,6,namesilo,,,18/09/2026 12:22
 7fba6a02-4863-41ca-973d-794b59f8ebc7,apart.futbol,available,7.49,17.99,high,low,5,namesilo,,,22/09/2026 07:07
+19f67baf-bc87-4008-a3b0-ed1792250144,analysts.futbol,available,5.57,14.13,medium,low,8,dynadot,,,30/09/2026 07:46
 483c94b5-c25d-4c30-aa66-f34d8041f4c3,bumpkin.futbol,available,5.98,21.98,medium,low,7,namecheap,,,21/08/2026 08:07
-836905c0-183a-4d88-bbf6-906420e3d1da,grandmother.futbol,available,17.99,17.99,high,low,11,namesilo,,,
+836905c0-183a-4d88-bbf6-906420e3d1da,grandmother.futbol,available,5.38,13.66,high,low,11,spaceship,,,30/09/2026 22:07
+f17e59e6-bcad-46ef-bba5-78941c465874,mpc.futbol,available,5.57,14.13,high,low,3,dynadot,,,30/09/2026 22:14
 0008b1ae-88ea-44e9-9f1f-9ef52b978b88,polygenic.futbol,available,5.98,21.98,medium,low,9,namecheap,,,08/09/2026 23:15
+4deaaa90-eec1-4093-88f0-0b798f2fa320,instructors.futbol,available,5.38,13.66,medium,low,11,spaceship,,,01/10/2026 01:00
 5d1b2cda-a2f5-42fc-b7a1-88b1d1ce021c,planned.futbol,available,7.49,17.99,high,low,7,namesilo,,,21/09/2026 22:06
 6c573c3f-42ee-43dc-8348-738f2424c0b7,twopenny.futbol,available,5.98,21.98,medium,low,8,namecheap,,,10/09/2026 09:10
 50d807c7-c2f4-477a-844b-98b158c943f2,birdbrain.futbol,available,7.49,17.99,medium,low,9,namesilo,,,17/09/2026 07:04
@@ -476,12 +520,13 @@ f221ca07-453a-49c4-bc12-f2099c2a3d8e,buttery.futbol,available,5.98,21.98,medium,
 a31fac9d-6d5d-4008-98f0-70e217460c23,email.futbol,premium,854,854,high,medium,6,namesilo,,,29/09/2026 17:24
 492498e5-84b5-4d26-affa-709f118a9866,underway.futbol,available,5.98,21.98,high,low,8,namecheap,,,12/09/2026 07:42
 3bf1af06-4667-41f0-96a4-529b2e94cde3,outta.futbol,available,5.38,13.66,medium,low,5,spaceship,,,29/09/2026 20:53
-416fc5a1-86a8-4e2a-8133-1e408ce5f546,addendum.futbol,available,7.49,17.99,high,low,8,namesilo,,,17/09/2026 06:41
+416fc5a1-86a8-4e2a-8133-1e408ce5f546,addendum.futbol,available,7.49,17.99,medium,low,8,namesilo,,,17/09/2026 06:41
 9ef5722c-5280-4f47-aed6-7cad6cb3ebb9,cas.futbol,available,5.38,13.66,high,low,3,spaceship,,,27/09/2026 23:14
 17796cac-0607-4254-9bbb-39cd6f619e5b,zen.futbol,available,5.38,13.66,high,medium,3,spaceship,,,29/09/2026 00:17
 7c1734a9-2e25-49e5-8752-ab398eb48f81,draw.futbol,available,5.57,14.13,high,low,4,dynadot,,,28/09/2026 23:10
 abacbd5a-77f7-456f-aa69-e2020c2726d3,curator.futbol,available,7.49,17.99,high,low,7,namesilo,,,24/09/2026 17:27
 18fa0365-43c7-40c4-a39c-904589355bfa,scotchtape.futbol,available,7.49,17.99,high,low,11,namesilo,,,16/09/2026 11:38
+ffd4bddc-f228-4364-b037-33c05b177092,grasshopper.futbol,available,7.49,17.99,high,low,11,namesilo,,,30/09/2026 11:34
 42100d2a-2c8f-4135-92a1-902206fa342f,astrakhan.futbol,available,7.49,17.99,medium,low,9,namesilo,,,20/09/2026 17:31
 cc392045-72f9-448f-9593-6ced090de93f,wellesley.futbol,available,7.49,17.99,high,low,9,namesilo,,,27/09/2026 08:52
 7609766c-17a6-49e2-871c-06683036f71d,happily.futbol,available,7.49,17.99,high,low,7,namesilo,,,28/09/2026 13:29
@@ -491,19 +536,22 @@ c9f55542-4e27-433a-a469-2855845915b8,lateral.futbol,available,5.98,21.98,high,lo
 6711b84e-fa6f-4e02-ae47-cd96ccec451a,nobility.futbol,available,7.49,17.99,high,low,8,namesilo,,,20/09/2026 05:50
 eb2fce9c-9f79-47ed-bd47-e118efd60e1d,authorizer.futbol,available,7.49,17.99,medium,low,10,namesilo,,,21/09/2026 05:13
 d8a5d1fd-8e60-4a84-82e6-e50128fe033d,anzio.futbol,available,5.98,21.98,medium,low,5,namecheap,,,19/09/2026 16:01
+54e6f348-2174-4d7e-8751-4b134ea013cd,cabinets.futbol,available,7.49,17.99,medium,low,8,namesilo,,,30/09/2026 15:51
 7742ed14-a10a-4d5f-85b2-8d6249e1592b,adi.futbol,available,7.49,17.99,high,low,3,namesilo,,,28/09/2026 16:16
 4e6f62e4-b87a-4896-8027-2848bdb807ef,technician.futbol,available,7.49,17.99,high,low,10,namesilo,,,28/09/2026 15:27
-818c8cc2-36f0-431d-ac12-c36256dacfea,moldavia.futbol,available,5.57,14.13,high,low,8,dynadot,,,29/09/2026 13:27
+818c8cc2-36f0-431d-ac12-c36256dacfea,moldavia.futbol,available,5.57,14.13,medium,low,8,dynadot,,,29/09/2026 13:27
 aff66669-2346-4f19-b222-7132c136e7bf,french.futbol,premium,128.7,128.7,high,low,6,namecheap,,,24/09/2026 21:41
 613f483b-93eb-40fc-8ed1-4a52256d68de,hewlett.futbol,available,7.49,17.99,medium,low,7,namesilo,,,28/09/2026 23:16
 2a3aecf1-379f-4691-a950-5c048e73a20d,defenses.futbol,available,13.2,13.2,medium,low,8,cloudflare,,,29/09/2026 10:39
-65fab8dd-4cfc-40d3-b91e-b67d90d6626b,tucson.futbol,available,5.66,13.9,high,low,6,porkbun,,,29/09/2026 02:22
+65fab8dd-4cfc-40d3-b91e-b67d90d6626b,tucson.futbol,available,5.66,13.9,medium,low,6,porkbun,,,29/09/2026 02:22
 7abbc452-4829-4bd2-83ed-373e59d06c21,adored.futbol,available,5.98,21.98,high,low,6,namecheap,,,21/09/2026 19:35
 9da67c5a-9e4f-4458-a006-1d702d83a293,porcine.futbol,available,5.98,21.98,medium,low,7,namecheap,,,21/08/2026 10:21
 332b0978-cb77-43fc-a3c8-1cc843c68e6f,strenuous.futbol,available,5.98,21.98,high,low,9,namecheap,,,10/09/2026 21:45
 bac30d9a-600a-4692-aa56-c11cef713d08,graphite.futbol,available,7.49,17.99,high,low,8,namesilo,,,24/09/2026 01:02
 d5f6f851-b584-4114-91b0-8578f2a6301f,heroism.futbol,available,5.38,13.66,high,low,7,spaceship,,,29/09/2026 18:59
 fee24bca-5d5a-4e86-8a3e-002fe66cceec,amiably.futbol,available,5.98,21.98,medium,low,7,namecheap,,,13/09/2026 17:50
+64097436-258f-4bed-9bc1-83ac651ee41f,outcrop.futbol,available,7.49,17.99,high,low,7,namesilo,,,01/10/2026 03:11
+d7c6af2c-91d0-47b1-8d26-c56caf8b9686,exiled.futbol,available,7.49,17.99,medium,low,6,namesilo,,,30/09/2026 15:40
 dbb55e1d-6ba1-424c-865f-2bb7a8b88d27,fisherman.futbol,available,7.49,17.99,high,low,9,namesilo,,,28/09/2026 05:43
 43e19140-4399-4cd7-b267-2421bef25ad2,cornerstone.futbol,available,5.38,13.66,high,low,11,spaceship,,,29/09/2026 14:29
 622b5dab-d002-40c0-988b-645dd352c5dc,angler.futbol,available,7.49,17.99,high,low,6,namesilo,,,18/09/2026 11:39
@@ -511,12 +559,14 @@ dbb55e1d-6ba1-424c-865f-2bb7a8b88d27,fisherman.futbol,available,7.49,17.99,high,
 9fd7e7cd-2110-4407-b124-5f26d4e628e9,ito.futbol,available,7.49,17.99,medium,low,3,namesilo,,,28/09/2026 08:05
 0061f802-131a-402d-9422-079b556a495f,incubation.futbol,available,5.98,21.98,high,low,10,namecheap,,,11/08/2026 06:10
 5e1fa7d2-0f3e-4cb0-aa4b-dbfc53a70dde,sitting.futbol,available,5.57,14.13,high,low,7,dynadot,,,27/09/2026 19:14
-21980e19-1b28-46eb-a1bf-c745ecaf5ee4,slipping.futbol,available,5.98,21.98,high,low,8,namecheap,,,10/09/2026 11:05
+0ac683a3-5db6-4f98-b152-9eed7d1e2362,galapagos.futbol,available,7.49,17.99,high,low,9,namesilo,,,30/09/2026 17:26
+21980e19-1b28-46eb-a1bf-c745ecaf5ee4,slipping.futbol,available,5.98,21.98,medium,low,8,namecheap,,,10/09/2026 11:05
 861a2d20-4c76-4e46-b144-533d605e4551,kingly.futbol,available,5.98,21.98,high,low,6,namecheap,,,22/08/2026 16:17
 5699ed6c-423d-4729-978f-1b3f871f38bd,velvet.futbol,available,5.57,14.13,high,low,6,dynadot,,,28/09/2026 10:12
 836b6eda-e8e8-453e-b4ca-269ed8fc78bb,amputation.futbol,available,9.99,24.99,high,low,10,name.com,,,18/09/2026 23:52
+4828cdfc-fa04-441e-9649-d43aaaaae01d,kanagawa.futbol,available,5.38,13.66,medium,low,8,spaceship,,,30/09/2026 05:13
 c21eb416-8f35-47c0-bfc1-d65e5ec60f0f,repeatable.futbol,available,5.98,21.98,high,low,10,namecheap,,,09/09/2026 09:08
-f297b0da-de48-4db1-9836-a7bd41b1da8e,ventolin.futbol,available,7.49,17.99,high,low,8,namesilo,,,18/09/2026 03:33
+f297b0da-de48-4db1-9836-a7bd41b1da8e,ventolin.futbol,available,7.49,17.99,medium,low,8,namesilo,,,18/09/2026 03:33
 58ad3893-2738-447a-ac6b-a9511cb09702,affiliates.futbol,available,7.49,17.99,high,low,10,namesilo,,,21/09/2026 06:56
 a739c36d-b927-4556-9288-34a205f782b7,tramontana.futbol,available,5.98,21.98,medium,low,10,namecheap,,,11/09/2026 18:50
 802fa230-8f3a-4c63-96fc-9519f5a2df67,duct.futbol,available,7.49,17.99,high,low,4,namesilo,,,25/09/2026 00:18
@@ -526,13 +576,15 @@ ab45c028-a34b-4179-bd68-d5663800c451,memorable.futbol,available,5.98,21.98,high,
 1e3fb739-5f7f-4ea1-b620-de0fb3f8fddc,pavlova.futbol,available,7.49,17.99,medium,low,7,namesilo,,,19/09/2026 10:01
 0b5ab8fc-96a3-4782-8f0a-eb8941be2f3d,apar.futbol,available,7.49,17.99,medium,low,4,namesilo,,,19/09/2026 16:14
 d039a258-5c8e-4df3-bbe2-53f19f593036,alteration.futbol,available,5.98,21.98,high,low,10,namecheap,,,18/09/2026 14:42
-bd579194-b85b-47d4-bb24-2982759370d5,setting.futbol,available,19.99,,high,low,7,name.com,,,
+bd579194-b85b-47d4-bb24-2982759370d5,setting.futbol,available,5.98,21.98,high,low,7,namecheap,,,30/09/2026 04:41
 7ac9f4f1-5641-4bf9-901d-fc9a8ac34470,angioma.futbol,available,7.49,17.99,medium,low,7,namesilo,,,19/09/2026 06:14
+949633ee-880c-4c72-b3c6-06c6de8778c1,niche.futbol,available,5.57,14.13,high,low,5,dynadot,,,30/09/2026 17:07
 3afde009-750c-4b46-8333-d87d42c82b1c,poems.futbol,available,7.49,17.99,medium,low,5,namesilo,,,18/09/2026 16:34
 f0cfeacf-b71e-4dcd-8130-6d8cce0e47f3,helene.futbol,available,7.49,17.99,medium,low,6,namesilo,,,28/09/2026 12:07
 459ff7e5-7136-4580-ab22-00ed0050fdfb,stagy.futbol,available,5.98,21.98,medium,low,5,namecheap,,,10/09/2026 18:04
 a77ff914-e719-4e54-b528-980267246fba,steamed.futbol,available,5.98,21.98,high,low,7,namecheap,,,
 8c4086c4-9020-4b0b-8d1a-a89155b1b44d,norbert.futbol,available,13.2,13.2,medium,low,7,cloudflare,,,28/09/2026 22:05
+d9d01738-56ef-431e-beeb-0fe381576870,pio.futbol,available,13.2,13.2,high,low,3,cloudflare,,,30/09/2026 13:33
 0d61b94c-b442-400a-8ecd-0c50ca28ce64,suggesting.futbol,available,5.98,21.98,high,low,10,namecheap,,,27/09/2026 17:56
 ee0cbf3a-f137-4d8b-a71c-abba8e928c22,wake.futbol,resell,,,high,low,4,"GoDaddy.com, LLC",21/11/2015 13:07,21/11/2026 13:07,26/09/2026 10:02
 dc91ad29-945a-45c8-9652-5e3466fe31fd,toddler.futbol,available,5.66,13.9,high,low,7,porkbun,,,29/09/2026 00:53
@@ -543,24 +595,28 @@ fbf3f637-1784-41c2-80c3-5a7c95bf11d4,geologist.futbol,available,7.49,17.99,high,
 13ee82d0-e0b1-427e-8e8f-75a16a4ece6c,cadiz.futbol,available,5.38,13.66,medium,low,5,spaceship,,,29/09/2026 06:11
 b2c3f948-0bc3-4db4-b805-91cd9bf4b635,desperately.futbol,available,5.98,21.98,medium,low,11,namecheap,,,28/09/2026 07:05
 692837c0-c73c-486a-bffa-28c893e7b9a6,laxative.futbol,available,5.98,21.98,high,low,8,namecheap,,,22/08/2026 21:25
-f04edead-1e43-4219-a4bb-4194e73b5abe,shells.futbol,available,7.49,17.99,high,low,6,namesilo,,,19/09/2026 01:23
+4c0fc3ab-58f9-4136-9971-6def14af3b32,retainer.futbol,available,13.2,13.2,high,low,8,cloudflare,,,30/09/2026 02:42
+f04edead-1e43-4219-a4bb-4194e73b5abe,shells.futbol,available,7.49,17.99,medium,low,6,namesilo,,,19/09/2026 01:23
 11c9fac1-0466-4937-92fd-255027661542,spencer.futbol,available,5.38,13.66,high,low,7,spaceship,,,27/09/2026 14:02
 9290c7df-0b12-4201-92a0-2b0ab0c85fe3,barreled.futbol,available,5.98,21.98,medium,low,8,namecheap,,,08/08/2026 20:46
 f8dce27c-5aeb-4bd0-980f-ba317bf34e7f,atv.futbol,available,7.49,17.99,high,low,3,namesilo,,,29/09/2026 21:49
-31203b8e-df7f-4d9f-89eb-70f0e70d13a8,reader.futbol,available,17.99,17.99,high,low,6,namesilo,,,
+31203b8e-df7f-4d9f-89eb-70f0e70d13a8,reader.futbol,available,5.38,13.66,high,low,6,spaceship,,,30/09/2026 02:38
 02a6a9d3-f818-4991-a3fe-66c8d47c5ae4,engross.futbol,available,5.98,21.98,medium,low,7,namecheap,,,10/09/2026 19:54
 fb2b8ab2-a6b9-4a9c-b30a-b0728bca6a1f,janis.futbol,available,7.49,17.99,high,low,5,namesilo,,,29/09/2026 09:40
-00099d22-a9bb-4c90-a6e9-cba14c616622,patiently.futbol,available,5.98,21.98,high,low,9,namecheap,,,15/09/2026 19:20
+00099d22-a9bb-4c90-a6e9-cba14c616622,patiently.futbol,available,5.98,21.98,medium,low,9,namecheap,,,15/09/2026 19:20
 fc0c68f7-7782-479f-9568-4683db143f86,suspicious.futbol,available,5.98,21.98,medium,low,10,namecheap,,,22/08/2026 22:28
-efab7533-1e27-478b-a60c-594691ba6afc,stepmother.futbol,available,19.99,,high,low,10,name.com,,,
+efab7533-1e27-478b-a60c-594691ba6afc,stepmother.futbol,available,13.2,13.2,high,low,10,cloudflare,,,30/09/2026 11:59
 3cc6509a-574f-44ff-962c-4b660b6c2d0a,segmented.futbol,available,5.98,21.98,medium,low,9,namecheap,,,24/08/2026 21:43
 47c0fc28-6918-4c8a-a3e9-f8852c32dd95,whittaker.futbol,available,7.49,17.99,medium,low,9,namesilo,,,28/09/2026 16:41
+0ff27990-ab2a-49ba-bf61-d72bee3decef,epochs.futbol,available,5.98,21.98,low,low,6,namecheap,,,30/09/2026 15:49
 3b509c65-c1a8-4947-bf34-250ff39f09c3,kaye.futbol,available,5.38,13.66,high,low,4,spaceship,,,28/09/2026 04:47
 77940c7b-6b85-46b5-9ca8-7ff8d9c11318,releases.futbol,available,5.38,13.66,medium,low,8,spaceship,,,29/09/2026 16:41
 35d97929-0b9d-49d9-9a4e-6152bde17643,scallops.futbol,available,5.98,21.98,medium,low,8,namecheap,,,19/09/2026 23:48
+b0ff9394-c707-4736-a186-11422362244d,hapter.futbol,available,5.57,14.13,medium,low,6,dynadot,,,30/09/2026 20:38
 f3717bdb-c63c-47e8-9fe4-22cd84690ebf,obscenely.futbol,available,5.98,21.98,medium,low,9,namecheap,,,15/09/2026 11:14
 d8a2e41a-fb1f-4c54-8919-ade252a93fa0,abortus.futbol,available,7.49,17.99,medium,low,7,namesilo,,,16/09/2026 16:40
-74b28c3d-e6f9-44ae-90df-ea8aa0553584,aphorism.futbol,available,5.98,21.98,high,low,8,namecheap,,,19/09/2026 17:09
+605994c0-6f7c-40cc-be13-6e67aac9c62c,concede.futbol,available,5.38,13.66,high,low,7,spaceship,,,01/10/2026 04:09
+74b28c3d-e6f9-44ae-90df-ea8aa0553584,aphorism.futbol,available,5.98,21.98,medium,low,8,namecheap,,,19/09/2026 17:09
 fb4a331d-e2c2-4c26-9175-29cbde3f630d,castrate.futbol,available,5.98,21.98,medium,low,8,namecheap,,,16/08/2026 07:07
 feb19832-109e-48bb-b513-10bc72d7ce89,holdings.futbol,available,5.98,21.98,medium,low,8,namecheap,,,17/09/2026 20:27
 151612c0-4ebc-4278-87e8-eda12a64ce52,assisted.futbol,available,13.2,13.2,high,low,8,cloudflare,,,28/09/2026 23:42
@@ -571,27 +627,32 @@ ffadc35e-9e5d-4007-82ed-7d7792744f22,pathogenic.futbol,available,5.98,21.98,medi
 76949676-a96a-40ac-a60a-0258cc8ef43f,realty.futbol,available,5.98,21.98,high,low,6,namecheap,,,21/08/2026 21:24
 bb5272e0-84e8-4546-b329-e07dd7fdd93d,serenely.futbol,available,5.98,21.98,medium,low,8,namecheap,,,16/09/2026 01:06
 0f7e4608-f7af-4396-98cb-9d72d50692c3,permit.futbol,available,7.49,17.99,high,low,6,namesilo,,,24/09/2026 18:39
-0bb02448-35bf-44fd-b9f8-6c020944e53a,banish.futbol,available,7.49,17.99,high,low,6,namesilo,,,24/09/2026 01:57
+0bb02448-35bf-44fd-b9f8-6c020944e53a,banish.futbol,available,7.49,17.99,medium,low,6,namesilo,,,24/09/2026 01:57
 1f4c425c-2e10-45b4-94f0-aa02026e38fb,androgenic.futbol,available,5.98,21.98,medium,low,10,namecheap,,,
+af6279ee-0be0-4b57-92a9-1e5ce3b58632,imitating.futbol,available,5.57,14.13,high,low,9,dynadot,,,30/09/2026 20:05
 7f1971fc-771e-45b3-8c5e-4e68970c29ef,stale.futbol,available,5.98,21.98,medium,low,5,namecheap,,,10/09/2026 18:24
 70a7e01b-c558-4d82-8d0a-25a53bd87fa6,fertility.futbol,available,5.98,21.98,high,low,9,namecheap,,,23/09/2026 21:05
 57fbd707-1c5e-4a58-b610-0a536d8a620e,arpeggio.futbol,available,7.49,17.99,high,low,8,namesilo,,,20/09/2026 08:37
 45307744-ed93-4651-bb2d-4bcc1249d570,narragansett.futbol,available,7.49,17.99,high,low,12,namesilo,,,29/09/2026 15:38
 1d8ef5f3-0cf7-4df0-8929-f878ebbfd4f3,interpersonal.futbol,available,17.99,17.99,high,low,13,namesilo,,,
 1c5900c7-b5e4-4346-a8cb-f403ebea99b0,miscreant.futbol,available,5.98,21.98,medium,low,9,namecheap,,,09/09/2026 14:38
-d76f13b0-5e17-433e-9f67-cddab8dd1781,disquiet.futbol,available,5.98,21.98,high,low,8,namecheap,,,24/09/2026 22:51
+d76f13b0-5e17-433e-9f67-cddab8dd1781,disquiet.futbol,available,5.98,21.98,medium,low,8,namecheap,,,24/09/2026 22:51
 18bed66f-6e8b-469f-a386-2fafe7419c99,karma.futbol,available,7.49,17.99,high,medium,5,namesilo,,,29/09/2026 07:24
 e0f89721-47de-4dbe-93b5-04b1ea1ea7d6,sized.futbol,available,5.98,21.98,high,low,5,namecheap,,,10/09/2026 09:15
 a411bbd5-2b0b-430c-8516-fe2c7b769fed,officer.futbol,available,7.49,17.99,high,low,7,namesilo,,,25/09/2026 09:25
 9f9494ac-1d64-4391-8a75-756527e7fd50,peanut.futbol,available,5.98,21.98,high,low,6,namecheap,,,08/09/2026 11:13
+6bcd5a77-401b-4489-9a8b-8305e2dbd1f4,terminator.futbol,available,5.38,13.66,high,low,10,spaceship,,,01/10/2026 01:51
+c5df1b55-6410-437c-a122-6cd4c9e0bcac,mont.futbol,available,7.49,17.99,medium,low,4,namesilo,,,30/09/2026 19:51
 4aafeee5-a955-449e-866d-218e38ffea66,humor.futbol,available,7.49,17.99,high,low,5,namesilo,,,24/09/2026 06:28
 faedee66-c9bd-4ad3-96bb-79b97973caf3,behemoth.futbol,available,7.49,17.99,high,low,8,namesilo,,,23/09/2026 03:24
 1172e9ad-17eb-4264-af9e-8fbeea68a5d5,ransom.futbol,available,7.49,17.99,medium,low,6,namesilo,,,27/09/2026 05:07
 02f267e2-de38-47fb-9a92-7ebb6d46013e,filets.futbol,available,7.49,17.99,medium,low,6,namesilo,,,20/09/2026 11:33
+c2a04a22-ca85-459e-8a9f-f140e4f17f67,mervyn.futbol,available,5.38,13.66,medium,low,6,spaceship,,,30/09/2026 20:52
 8486bf90-e041-4931-b79f-46b2fd2bad31,incased.futbol,available,5.98,21.98,medium,low,7,namecheap,,,11/08/2026 20:08
 f79c53fd-8924-41e2-b57a-406add3c5ab5,bakunin.futbol,available,5.98,21.98,medium,low,7,namecheap,,,21/09/2026 20:26
 bdfb08df-c501-4eb1-bcec-e9cbe087c51c,melodic.futbol,available,5.98,21.98,high,low,7,namecheap,,,24/08/2026 19:41
-e92e01d2-6ba0-4269-96d0-ff87030f3ab5,amended.futbol,available,5.98,21.98,high,low,7,namecheap,,,
+e92e01d2-6ba0-4269-96d0-ff87030f3ab5,amended.futbol,available,5.98,21.98,medium,low,7,namecheap,,,
+34986088-7e12-4f52-810d-1933f02345d8,nicolson.futbol,available,5.38,13.66,medium,low,8,spaceship,,,01/10/2026 02:25
 97fabe0c-d7cb-47c5-b361-cd3af9c209f3,neotenous.futbol,available,5.98,21.98,medium,low,9,namecheap,,,03/09/2026 15:33
 7b3193e2-8adc-4437-9e1e-039b675a1d56,ownership.futbol,available,7.49,17.99,high,low,9,namesilo,,,28/09/2026 15:02
 2c45d0f7-43ad-453b-93b3-c5403687c538,portfolio.futbol,available,5.66,13.9,high,low,9,porkbun,,,28/09/2026 20:13
@@ -601,16 +662,17 @@ beb59181-51ca-4df3-8e4e-735850633d0b,translate.futbol,available,7.49,17.99,high,
 f4208d0c-4b03-4d4f-a545-0d8e1c78f0e3,dread.futbol,available,5.98,21.98,high,low,5,namecheap,,,14/08/2026 18:38
 680a6809-892d-4a88-b44f-3b37b74ea90d,instructed.futbol,available,7.49,17.99,medium,low,10,namesilo,,,28/09/2026 04:56
 8c4d87bb-aace-4bff-ab05-35c567d6db21,isla.futbol,available,5.38,13.66,high,low,4,spaceship,,,28/09/2026 16:31
-82368fa1-0753-45b2-9cc8-5daa690c3839,relief.futbol,available,13.2,13.2,high,low,6,cloudflare,,,28/09/2026 04:47
+82368fa1-0753-45b2-9cc8-5daa690c3839,relief.futbol,available,5.38,13.66,high,low,6,spaceship,,,01/10/2026 02:48
+a5b3c726-544e-4d73-8a67-eebcec6a3720,resembles.futbol,available,5.57,14.13,medium,low,9,dynadot,,,30/09/2026 07:07
 cff0e5c0-83fd-4071-9c79-7e6ba67c6ca5,unpressed.futbol,available,5.98,21.98,low,low,9,namecheap,,,12/09/2026 17:24
 d5da3bf2-5818-4701-b714-2474d9b97701,viola.futbol,available,5.38,13.66,high,low,5,spaceship,,,29/09/2026 07:04
-c00d7b4a-2c64-485b-b2d1-d102fe3e9110,dorothy.futbol,available,5.98,21.98,high,low,7,namecheap,,,25/09/2026 14:18
+c00d7b4a-2c64-485b-b2d1-d102fe3e9110,dorothy.futbol,available,5.98,21.98,medium,low,7,namecheap,,,25/09/2026 14:18
 b686feb0-d778-4e99-a3b4-572ce506287d,welcome.futbol,available,5.98,21.98,high,low,7,namecheap,,,13/09/2026 10:12
 9ff8b66f-c31c-46f7-8aa1-af82c349f246,archduke.futbol,available,7.49,17.99,medium,low,8,namesilo,,,20/09/2026 01:54
 cfed58b5-df80-428a-a4b8-bc166c683883,windward.futbol,available,5.98,21.98,high,low,8,namecheap,,,13/09/2026 12:22
 bfc0350b-1505-41f2-8580-8c8d2164b31f,cooking.futbol,available,7.49,17.99,high,low,7,namesilo,,,28/09/2026 06:07
 2bad06d2-9729-4568-8bfb-83b996da6c83,behaviour.futbol,available,7.49,17.99,high,low,9,namesilo,,,23/09/2026 03:08
-b6d0e90d-adec-4f43-8283-8a97506958b4,feldman.futbol,available,5.38,13.66,high,low,7,spaceship,,,27/09/2026 20:17
+b6d0e90d-adec-4f43-8283-8a97506958b4,feldman.futbol,available,5.38,13.66,medium,low,7,spaceship,,,27/09/2026 20:17
 f8e87db9-c750-40ed-9f52-d7ac6fd8474e,tower.futbol,available,5.57,14.13,high,low,5,dynadot,,,29/09/2026 23:19
 026208e0-2211-4603-9f1d-16a51bd4c58a,larval.futbol,available,5.98,21.98,medium,low,6,namecheap,,,22/08/2026 20:01
 ce540b40-8b8d-4755-a18d-4bc565d4d32d,hypnagogic.futbol,available,5.98,21.98,medium,low,10,namecheap,,,21/08/2026 17:03
@@ -622,8 +684,8 @@ dea831a7-bc1a-4678-a223-288e948c8a71,bark.futbol,available,7.49,17.99,high,low,4
 0c47526a-8df8-4da5-9af6-c1a9ff6864ab,styles.futbol,available,7.49,17.99,high,low,6,namesilo,,,28/09/2026 22:23
 49f81d84-d7d6-494a-842f-0da00ba9d9b6,cleveland.futbol,available,7.49,17.99,high,low,9,namesilo,,,29/09/2026 10:02
 b4208a9b-5539-4490-905d-8c2b7368814e,ayurveda.futbol,available,7.49,17.99,high,low,8,namesilo,,,21/09/2026 10:52
-e5bf0338-604a-4d38-aa11-ac764df6045d,effort.futbol,available,5.38,13.66,high,low,6,spaceship,,,28/09/2026 05:04
-25b79bcb-25c2-4cd0-925d-96a55a7fa574,sleeveless.futbol,available,5.98,21.98,high,low,10,namecheap,,,10/08/2026 19:41
+e5bf0338-604a-4d38-aa11-ac764df6045d,effort.futbol,available,5.98,21.98,high,low,6,namecheap,,,01/10/2026 03:08
+25b79bcb-25c2-4cd0-925d-96a55a7fa574,sleeveless.futbol,available,5.98,21.98,medium,low,10,namecheap,,,10/08/2026 19:41
 5fd43988-14f9-4ed1-9fb2-f0625422c39b,antenna.futbol,available,5.38,13.66,high,low,7,spaceship,,,28/09/2026 21:39
 a232b646-556d-41a9-95de-942c5377e715,smallish.futbol,available,5.98,21.98,medium,low,8,namecheap,,,10/09/2026 11:46
 cde7016c-8e64-4f23-af8e-8d21e163447d,painting.futbol,available,7.49,17.99,high,low,8,namesilo,,,25/09/2026 07:33
@@ -637,38 +699,45 @@ be377e97-46d0-4d03-9363-80ac6d83e1c8,anticancer.futbol,available,5.98,21.98,high
 fc46f531-10c8-47cc-b567-554eb6b31301,ils.futbol,available,5.38,13.66,medium,low,3,spaceship,,,30/09/2026 00:10
 be4b9c6e-2968-479d-b7bf-df055f7e1b18,acarpelous.futbol,available,5.98,21.98,medium,low,10,namecheap,,,
 29baae1b-ed5b-4368-963e-6d427460bbb3,bolshie.futbol,available,5.98,21.98,medium,low,7,namecheap,,,10/08/2026 17:55
-56c40c30-3d3a-4f91-97b6-c56c71a9225a,honoured.futbol,available,7.49,17.99,high,low,8,namesilo,,,29/09/2026 03:18
+56c40c30-3d3a-4f91-97b6-c56c71a9225a,honoured.futbol,available,7.49,17.99,medium,low,8,namesilo,,,29/09/2026 03:18
 307c8de9-9ba3-4532-93e6-f4131efc945c,bettor.futbol,available,7.49,17.99,high,low,6,namesilo,,,23/09/2026 11:49
 776d62d8-54f7-4a77-8845-3d7fc5ea28e3,undisciplined.futbol,available,17.99,17.99,medium,low,13,namesilo,,,
 b82655b2-c4bf-488f-8b74-85fda5d2cb1b,quarter.futbol,available,5.98,21.98,high,low,7,namecheap,,,28/09/2026 00:50
+ebc18edf-8cd2-46ea-b7cc-dacc9c9bd689,attracts.futbol,available,5.38,13.66,medium,low,8,spaceship,,,30/09/2026 06:55
 7a4c6a82-d98a-45ef-b81e-9c546ac2b301,reynolds.futbol,available,5.98,21.98,high,low,8,namecheap,,,25/09/2026 10:19
-28ccaacf-fe2f-43d3-9867-6ac2d5aa3f70,cruciate.futbol,available,5.98,21.98,high,low,8,namecheap,,,13/08/2026 08:40
+28ccaacf-fe2f-43d3-9867-6ac2d5aa3f70,cruciate.futbol,available,5.98,21.98,medium,low,8,namecheap,,,13/08/2026 08:40
 3b15f9d9-cbcd-444c-b95c-bc868ee40e40,collide.futbol,available,5.98,21.98,high,low,7,namecheap,,,24/09/2026 15:18
 61474ac7-72ae-4c5b-8ac6-344ead06b16b,rate.futbol,available,7.49,17.99,high,low,4,namesilo,,,24/09/2026 13:46
 d1cdabdf-8f21-452f-b560-40da4dbe3dc7,unskilled.futbol,available,5.98,21.98,high,low,9,namecheap,,,
 c80ea980-fbae-43a6-9428-e365333cbbff,bloomsbury.futbol,available,5.38,13.66,medium,low,10,spaceship,,,29/09/2026 18:00
 397af6ed-357b-4997-88a1-2c494f73832d,salvage.futbol,available,5.38,13.66,high,low,7,spaceship,,,28/09/2026 10:52
 635459af-c501-455c-a4e6-b92a3eb265f4,engels.futbol,available,7.49,17.99,medium,low,6,namesilo,,,28/09/2026 14:01
+d46979d7-54ca-47d4-9644-414638fe3ff6,charisma.futbol,available,9.99,9.99,high,low,8,godaddy,,,01/10/2026 01:20
 2629ad67-8661-41f0-92fd-275a51cd4801,pianos.futbol,available,5.98,21.98,medium,low,6,namecheap,,,20/09/2026 09:12
 5a8326e1-47d1-4de7-8893-91c0f944cb3b,adjacency.futbol,available,7.49,17.99,high,low,9,namesilo,,,17/09/2026 08:24
-3d0bb56a-22a3-4cef-bc71-1296417d664f,pittsfield.futbol,available,13.2,13.2,high,low,10,cloudflare,,,29/09/2026 07:52
+3d0bb56a-22a3-4cef-bc71-1296417d664f,pittsfield.futbol,available,13.2,13.2,medium,low,10,cloudflare,,,29/09/2026 07:52
 6a668b8d-6474-442f-8e7d-4a4fa4948108,philosophy.futbol,available,7.49,17.99,high,low,10,namesilo,,,27/09/2026 13:03
 d5e4fff2-7713-4066-9456-bfe3b3c24307,truer.futbol,available,5.98,21.98,medium,low,5,namecheap,,,20/09/2026 05:56
 b82cde58-52e8-46da-a4ce-5240ced44335,cap.futbol,available,13.2,13.2,high,low,3,cloudflare,,,29/09/2026 06:43
 8ab283d9-4cb3-4b3c-aa71-c51c640e3d88,donut.futbol,available,13.2,13.2,high,low,5,cloudflare,,,29/09/2026 16:33
+aa8bff85-a5ea-484e-9db2-ff840bf25f14,yearning.futbol,available,5.38,13.66,high,low,8,spaceship,,,30/09/2026 17:56
 18cfa77e-a3f6-4471-8eba-6593d302162e,bailor.futbol,available,5.98,21.98,medium,low,6,namecheap,,,21/09/2026 19:14
+a1cba4a0-c6b3-403c-b79a-acb653233ea0,mapping.futbol,available,7.49,17.99,high,low,7,namesilo,,,30/09/2026 09:11
 3e0f5f92-1fb5-4d7b-9cf2-8e9c536e527b,bethune.futbol,available,7.49,17.99,medium,low,7,namesilo,,,23/09/2026 11:17
 357d006e-73c8-4b15-92a0-40c3501cce74,slothful.futbol,available,5.98,21.98,medium,low,8,namecheap,,,17/08/2026 20:58
 ca413927-a5c0-4d91-b7d2-a8745466b521,porkfish.futbol,available,5.98,21.98,medium,low,8,namecheap,,,19/09/2026 09:38
 88fd2fa4-6664-4b5b-a86f-104f309b9cfa,outside.futbol,available,7.49,17.99,high,low,7,namesilo,,,21/09/2026 23:49
+f756e006-9b1f-47b2-8904-b63c10cc08e9,aro.futbol,available,13.2,13.2,high,low,3,cloudflare,,,30/09/2026 03:42
+b4754026-a071-4041-8b46-a04a3ca51d2b,wilma.futbol,available,5.38,13.66,high,low,5,spaceship,,,30/09/2026 03:44
 8e1b1f45-6f57-471e-816b-a97d3b81abba,cough.futbol,available,9.99,24.99,high,low,5,name.com,,,24/09/2026 18:37
 677a6672-9b3c-4feb-b77a-7e4d05826e23,humans.futbol,available,5.38,13.66,high,medium,6,spaceship,,,29/09/2026 23:22
 bb04ee27-843f-47f1-a028-67853a1b3877,put.futbol,available,7.49,17.99,high,low,3,namesilo,,,25/09/2026 13:13
 a7b61550-43c8-4879-a1a6-e3f9f7a79115,isle.futbol,available,13.2,13.2,high,low,4,cloudflare,,,30/09/2026 00:26
 07e721f1-bd75-42d1-9dc4-8fa3d9db3710,bimetal.futbol,available,5.98,21.98,high,low,7,namecheap,,,09/08/2026 22:52
-3ddeaa3b-6aa0-418a-8201-929084b49429,unmoved.futbol,available,5.98,21.98,high,low,7,namecheap,,,21/08/2026 23:45
+3ddeaa3b-6aa0-418a-8201-929084b49429,unmoved.futbol,available,5.98,21.98,medium,low,7,namecheap,,,21/08/2026 23:45
 1d01aaef-23a6-41fd-a02b-dd1bac1b2dbb,lands.futbol,available,7.49,17.99,medium,low,5,namesilo,,,28/09/2026 04:27
 5541f0ee-3caa-40d4-bf7d-883e0073f6dc,allium.futbol,available,7.49,17.99,high,low,6,namesilo,,,18/09/2026 11:13
+e5429181-5954-44e3-b32b-ffe033bf99eb,frankfurt.futbol,available,5.38,13.66,high,low,9,spaceship,,,30/09/2026 09:45
 ff0b3098-3745-4789-899d-d568083d02a1,didnt.futbol,available,17.99,17.99,medium,low,5,namesilo,,,
 240729d4-ad51-4eaf-8df2-e728fa6ca125,things.futbol,available,13.2,13.2,high,low,6,cloudflare,,,28/09/2026 05:47
 78e53856-7773-43cd-ab18-fa162ca20708,territorial.futbol,available,5.38,13.66,medium,low,11,spaceship,,,28/09/2026 21:11
@@ -679,8 +748,8 @@ e3482448-e9d8-4898-8db1-fcb2dd29fb98,jovially.futbol,available,5.98,21.98,medium
 5c6a901b-07b7-480a-82e3-26b7deb6642d,pages.futbol,available,7.49,17.99,high,low,5,namesilo,,,17/09/2026 10:38
 1043b2db-a435-48b7-a2a3-ec7bc0346251,reflexion.futbol,available,5.98,21.98,high,low,9,namecheap,,,03/09/2026 11:28
 7f9a1d3f-ca92-4577-81f9-c770ecf4feb3,normally.futbol,available,7.49,17.99,medium,low,8,namesilo,,,28/09/2026 14:10
-513f336f-c417-42a9-b8b5-1727501d27df,terence.futbol,available,7.49,17.99,high,low,7,namesilo,,,27/09/2026 15:27
-2c26391d-8bb8-430d-b6ea-c5ccec5c1ea2,backhoe.futbol,available,7.49,17.99,high,low,7,namesilo,,,21/09/2026 15:37
+513f336f-c417-42a9-b8b5-1727501d27df,terence.futbol,available,7.49,17.99,medium,low,7,namesilo,,,27/09/2026 15:27
+2c26391d-8bb8-430d-b6ea-c5ccec5c1ea2,backhoe.futbol,available,7.49,17.99,medium,low,7,namesilo,,,21/09/2026 15:37
 9b74888d-3307-4295-a838-ff0bd7770bd6,deuce.futbol,available,7.49,17.99,high,low,5,namesilo,,,21/09/2026 12:17
 943e47db-d992-41f3-b0f8-f550bc38ef2b,avoid.futbol,available,5.98,21.98,high,low,5,namecheap,,,13/09/2026 06:44
 36abe841-6939-4ebd-a785-26c4d6da20f8,ttyl.futbol,available,17.99,17.99,medium,low,4,namesilo,,,
@@ -689,50 +758,59 @@ e3482448-e9d8-4898-8db1-fcb2dd29fb98,jovially.futbol,available,5.98,21.98,medium
 1110014b-098b-4f96-8da0-20772ed4bd7a,atherton.futbol,available,13.2,13.2,medium,low,8,cloudflare,,,28/09/2026 09:10
 1b691cf7-325e-46b2-844f-83ec140a0f53,apparently.futbol,available,5.98,21.98,high,low,10,namecheap,,,08/09/2026 20:26
 bae58152-f357-4f5c-a4af-6ef306345387,popcorn.futbol,available,13.2,13.2,high,medium,7,cloudflare,,,28/09/2026 20:12
-c86e75f8-23e5-41ea-8cd5-db944418970d,lapp.futbol,available,7.49,17.99,high,low,4,namesilo,,,19/09/2026 15:44
+c86e75f8-23e5-41ea-8cd5-db944418970d,lapp.futbol,available,7.49,17.99,medium,low,4,namesilo,,,19/09/2026 15:44
 b1b207c6-4c7d-4abe-872a-be59ebecc733,delays.futbol,available,5.38,13.66,low,low,6,spaceship,,,29/09/2026 17:36
 4d73599e-9f65-4cb3-9b30-2204744ebb04,disunite.futbol,available,5.98,21.98,medium,low,8,namecheap,,,14/08/2026 11:14
 1e0f4776-3e17-43ad-8e31-0f58697aaf42,parched.futbol,available,5.98,21.98,medium,low,7,namecheap,,,
+cf561fcc-3ed0-47a3-8f1e-b97ed7fd8eac,witnessing.futbol,available,5.38,13.66,high,low,10,spaceship,,,30/09/2026 12:14
 b44c594f-c5e9-4172-82b7-4b6e32f61247,summertime.futbol,available,7.49,17.99,high,low,11,namesilo,,,18/09/2026 00:39
 9c909762-384d-4133-a46d-8a5d112098b8,chew.futbol,available,7.49,17.99,high,low,4,namesilo,,,29/09/2026 08:20
 fc46e896-9f90-4f2b-8560-9ecfde8d1bae,arng.futbol,available,7.49,17.99,medium,low,4,namesilo,,,20/09/2026 08:02
 12b83a07-17db-4a97-8093-b735b6ef9990,erratum.futbol,available,5.98,21.98,medium,low,7,namecheap,,,24/08/2026 07:21
+cea29b46-8ac4-4b71-952f-3a4c58065d34,landowner.futbol,available,5.98,21.98,high,low,9,namecheap,,,01/10/2026 02:50
 617294ac-1e48-4fc2-b828-549a8c4f775f,dolce.futbol,available,5.98,21.98,high,low,5,namecheap,,,14/09/2026 13:39
 d079a25d-f249-4eac-ba0d-cc510c1ef1f6,titivate.futbol,available,5.98,21.98,medium,low,8,namecheap,,,10/09/2026 16:59
 b32da3c9-33ca-4680-9fc1-7082650e9490,gaseous.futbol,available,5.98,21.98,medium,low,7,namecheap,,,18/08/2026 20:25
 144fb5af-102e-42d9-a8e9-b7b87ae6de52,trimox.futbol,available,7.49,17.99,medium,low,6,namesilo,,,18/09/2026 22:57
 1bb7ee1d-69be-43f0-9657-97bcff76940d,amora.futbol,available,7.49,17.99,high,low,5,namesilo,,,18/09/2026 22:38
-38a46363-e642-4158-acc1-707bff727e8f,vans.futbol,available,7.49,17.99,high,low,4,namesilo,,,18/09/2026 22:44
+38a46363-e642-4158-acc1-707bff727e8f,vans.futbol,available,7.49,17.99,medium,low,4,namesilo,,,18/09/2026 22:44
 0f8bf73c-041d-4766-9d1d-f767a8d607d5,bump.futbol,available,5.38,13.66,high,low,4,spaceship,,,29/09/2026 05:15
 b5e81d3a-5a52-4391-b94d-a34bfe5f1ab7,atavism.futbol,available,7.49,17.99,medium,low,7,namesilo,,,20/09/2026 19:45
+8ea97074-62ee-4206-a741-fda8bf26127b,psp.futbol,available,5.38,13.66,high,low,3,spaceship,,,30/09/2026 04:37
+b8deac8f-66ff-4fc9-9980-63395d6097d6,kari.futbol,available,5.38,13.66,medium,low,4,spaceship,,,30/09/2026 13:17
+c7e2166f-294e-4d48-93ae-ae404fce9477,stretcher.futbol,available,5.98,21.98,high,low,9,namecheap,,,30/09/2026 16:46
 e2212d44-73c7-42a0-a9b2-bfff372ebd4c,aegis.futbol,available,7.49,17.99,high,medium,5,namesilo,,,17/09/2026 12:19
 a6659e2e-25f8-4a17-b470-a4caf25e1cf2,wade.futbol,available,7.49,17.99,high,low,4,namesilo,,,28/09/2026 06:51
 509043ec-8844-4ef9-85f3-bd7835ae4340,begging.futbol,available,7.49,17.99,high,low,7,namesilo,,,23/09/2026 02:16
-8656fc6b-d505-4cf7-976d-c82ae31ee7fc,unexplored.futbol,available,5.98,21.98,high,low,10,namecheap,,,12/09/2026 09:42
+8656fc6b-d505-4cf7-976d-c82ae31ee7fc,unexplored.futbol,available,5.98,21.98,medium,low,10,namecheap,,,12/09/2026 09:42
 100c71ac-2005-41be-8f85-ce7bf92632e6,takeaways.futbol,available,7.49,17.99,medium,low,9,namesilo,,,18/09/2026 05:02
 c78e79e1-451b-4bff-a772-0b99b1ac8d37,interfere.futbol,available,5.38,13.66,high,low,9,spaceship,,,28/09/2026 03:20
 09cb7bf3-2d76-4fd2-870a-c733a926d6f2,impractical.futbol,available,17.99,17.99,medium,low,11,namesilo,,,
 468976dc-62d6-498d-a4ca-f74cf225fa54,champaign.futbol,available,5.98,21.98,medium,low,9,namecheap,,,08/09/2026 20:30
+47cff481-ae33-4d40-bb1a-e60ee660c677,watchman.futbol,available,5.38,13.66,high,low,8,spaceship,,,30/09/2026 18:36
 089bf981-30f9-4377-b422-d064507f0586,bulls.futbol,available,5.38,13.66,high,low,5,spaceship,,,28/09/2026 07:33
 e415a237-de0f-46f7-9188-06b68d47cc84,ataraxic.futbol,available,5.98,21.98,low,low,8,namecheap,,,07/08/2026 12:49
-ec6755a6-7049-4cdd-a836-fd2518b68930,vent.futbol,available,17.99,17.99,high,low,4,namesilo,,,
+ec6755a6-7049-4cdd-a836-fd2518b68930,vent.futbol,available,5.38,13.66,high,low,4,spaceship,,,30/09/2026 14:25
 0e8eeb0d-dd85-484e-bc93-81c64d408577,extraneous.futbol,available,5.98,21.98,medium,low,10,namecheap,,,17/08/2026 19:20
 e715b7cf-cf17-4405-8f8a-baf44ee0ef7f,meddlesome.futbol,available,5.98,21.98,medium,low,10,namecheap,,,11/08/2026 11:23
 28ed2ec8-e3bb-472e-9c4c-bb291a2f4fd8,moravia.futbol,available,5.38,13.66,medium,low,7,spaceship,,,28/09/2026 19:54
 465049df-8f44-4f6c-a7ee-e6c2a2258acf,chest.futbol,available,7.49,17.99,high,low,5,namesilo,,,24/09/2026 10:14
 0d8a7504-fd95-4f83-8ccc-ef5b6190c401,freehand.futbol,available,5.98,21.98,high,low,8,namecheap,,,18/08/2026 14:55
 a80a1a48-8164-4d73-bbbf-1150ae0a1cc5,acadian.futbol,available,5.98,21.98,high,low,7,namecheap,,,16/09/2026 20:29
-aa74ea33-ecc1-4eaf-b1c4-6138e04afb86,hawkins.futbol,available,5.57,14.13,high,low,7,dynadot,,,28/09/2026 09:24
+aa74ea33-ecc1-4eaf-b1c4-6138e04afb86,hawkins.futbol,available,5.57,14.13,medium,low,7,dynadot,,,28/09/2026 09:24
 74556c26-0ad7-4f12-95bf-509f4a40511b,ablated.futbol,available,5.98,21.98,medium,low,7,namecheap,,,
 c2a23313-2c35-43d8-9fc2-a5e4e4a2c5dc,hutchison.futbol,available,5.38,13.66,medium,low,9,spaceship,,,28/09/2026 22:09
 d446184a-1358-4dc3-9670-5ebe9c376a2e,dormant.futbol,available,5.98,21.98,high,low,7,namecheap,,,
 95a78bde-e0fc-44d1-b2b3-1c57c23ed752,topical.futbol,available,5.98,21.98,high,low,7,namecheap,,,11/09/2026 17:42
+d3da9466-02fb-4cc6-bcdd-d6b5f1b9f870,pena.futbol,available,7.49,17.99,high,low,4,namesilo,,,30/09/2026 13:00
+4c477657-47bd-4b39-8d33-a37ebc2f3f0f,allahabad.futbol,available,5.38,13.66,medium,low,9,spaceship,,,30/09/2026 05:15
 e7330a5d-3ed3-4fe6-9e45-b64def16ab8f,pediatrist.futbol,available,7.49,17.99,high,low,10,namesilo,,,21/09/2026 13:27
 386c5a56-400f-4afb-93d8-fca627a3341c,merger.futbol,available,5.38,13.66,high,low,6,spaceship,,,28/09/2026 20:49
 ae24f427-c9c8-4063-a80e-d40904153618,anti.futbol,available,5.98,21.98,high,low,4,namecheap,,,
 bb4f2929-9ad3-4e06-87cc-b05861580398,carpetbag.futbol,available,5.98,21.98,medium,low,9,namecheap,,,11/08/2026 19:44
 96db2b7c-3ce7-4980-80d3-341c407c169b,recidivist.futbol,available,5.98,21.98,medium,low,10,namecheap,,,21/09/2026 15:57
 432bbd04-5ede-4c95-8802-30890cb224d2,thankful.futbol,available,7.49,17.99,high,low,8,namesilo,,,24/09/2026 22:54
+c3ae3366-dcf1-493b-95b3-9ec0cde4b4ed,superstition.futbol,available,5.66,13.9,medium,low,12,porkbun,,,30/09/2026 14:14
 efc0da25-0cf1-422d-81df-d244e00efbf0,slithery.futbol,available,5.98,21.98,medium,low,8,namecheap,,,10/09/2026 11:09
 4f5922c8-084a-4387-bab7-0805a0479e36,abaca.futbol,available,7.49,17.99,medium,low,5,namesilo,,,16/09/2026 13:44
 ee2ef565-75f1-4a99-81de-ab561fb1624c,crows.futbol,available,7.49,17.99,high,low,5,namesilo,,,20/09/2026 17:41
@@ -749,10 +827,11 @@ b7553d5e-259e-4879-a1d6-6bb8948eee39,citrous.futbol,available,9.99,24.99,medium,
 71ad3742-63e1-4844-b3b8-5ff0f2e8d225,limbo.futbol,available,5.98,21.98,high,low,5,namecheap,,,29/09/2026 19:33
 7fba2ff6-79b6-4200-8b25-a0a6cf56acbc,widely.futbol,available,5.38,13.66,medium,low,6,spaceship,,,28/09/2026 16:47
 4081e001-47e9-48c5-bce4-7ae4a75f8b7c,winthrop.futbol,available,5.66,13.9,high,low,8,porkbun,,,27/09/2026 19:50
-56727267-8fc2-49c8-97cf-76a9f517b675,appointment.futbol,available,5.38,13.66,high,low,11,spaceship,,,28/09/2026 06:29
+56727267-8fc2-49c8-97cf-76a9f517b675,appointment.futbol,available,7.49,17.99,high,low,11,namesilo,,,30/09/2026 23:10
 c0f5338a-0130-47d0-a590-fc7a007f2929,beachwear.futbol,available,5.98,21.98,high,low,9,namecheap,,,22/09/2026 19:10
 0ba7149a-9dbb-4862-afa3-1ac0b401c7f3,milwaukee.futbol,available,5.38,13.66,high,low,9,spaceship,,,29/09/2026 01:40
-3d1e9d84-66af-4413-bbd2-e7d5a9306d85,dressy.futbol,available,5.98,21.98,high,low,6,namecheap,,,14/08/2026 18:57
+3d1e9d84-66af-4413-bbd2-e7d5a9306d85,dressy.futbol,available,5.98,21.98,medium,low,6,namecheap,,,14/08/2026 18:57
+a85e3671-5f3c-4f47-9950-575e4d89bd0c,richter.futbol,available,5.98,21.98,high,low,7,namecheap,,,30/09/2026 04:42
 c407a7a3-b473-4e43-919f-d88163b2471c,watchfully.futbol,available,7.49,17.99,medium,low,10,namesilo,,,16/09/2026 10:58
 696cada1-92f5-40c0-b751-d4ee85503f1a,extendable.futbol,available,5.98,21.98,medium,low,10,namecheap,,,17/08/2026 18:59
 05b8513e-4ad0-4fb5-ab6f-cb8603970fb2,unfunny.futbol,available,5.98,21.98,medium,low,7,namecheap,,,12/09/2026 11:05
@@ -765,7 +844,8 @@ e2f05cde-613a-45dd-9b22-6ac0052efb22,ethically.futbol,available,5.98,21.98,high,
 b85c3e3a-5f1f-4b37-8f29-94e89052e1f7,scratches.futbol,available,16.98,21.98,high,low,9,namecheap,,,
 252ee5dd-3b81-4ff6-86fb-1a6cea005631,accountability.futbol,available,17.99,17.99,high,low,14,namesilo,,,
 489fc02e-efc8-4a4f-a643-fe4b1530079a,winona.futbol,available,7.49,17.99,medium,low,6,namesilo,,,28/09/2026 22:06
-3efcb304-f1f5-4e3e-bee6-6adde8614e2b,communication.futbol,available,5.57,14.13,high,low,13,dynadot,,,29/09/2026 06:08
+d20187b8-7dc5-4c8c-b281-502d8883dbc3,rosenfeld.futbol,available,7.49,17.99,high,low,9,namesilo,,,30/09/2026 13:37
+3efcb304-f1f5-4e3e-bee6-6adde8614e2b,communication.futbol,available,5.57,14.13,medium,low,13,dynadot,,,29/09/2026 06:08
 475d7093-1dc9-433b-a605-ceb895531624,dictation.futbol,available,5.98,21.98,high,low,9,namecheap,,,23/09/2026 13:35
 cce804b3-d512-4589-bfe0-45e12fd4f323,complications.futbol,available,13.2,13.2,low,low,13,cloudflare,,,28/09/2026 13:25
 cc5c3fd1-17cb-420e-8735-e872a4c43f82,greylag.futbol,available,7.49,17.99,medium,low,7,namesilo,,,19/09/2026 12:07
@@ -774,10 +854,12 @@ cc5c3fd1-17cb-420e-8735-e872a4c43f82,greylag.futbol,available,7.49,17.99,medium,
 1bdaec62-23e5-4414-83ce-8e27c29aae6a,mandarin.futbol,available,5.98,21.98,high,low,8,namecheap,,,23/09/2026 04:17
 a588cd99-c185-46ef-926c-8ea80b1d9125,highland.futbol,available,5.98,21.98,high,low,8,namecheap,,,21/08/2026 09:16
 d0df3811-ea2d-4e2a-97ca-a4aabda0a682,presume.futbol,available,7.49,17.99,medium,low,7,namesilo,,,29/09/2026 00:37
+e30b610d-7377-45d1-b912-04d1ec429e26,aman.futbol,available,5.57,14.13,high,low,4,dynadot,,,30/09/2026 20:31
 fcffebda-dbde-403d-bb95-3d8c365749ac,likable.futbol,available,5.98,21.98,high,low,7,namecheap,,,23/08/2026 06:14
 a361c6f5-7a19-419c-82ac-9e2a860cc0ff,acted.futbol,available,7.49,17.99,high,low,5,namesilo,,,27/09/2026 02:34
-9eb8473f-b008-4e68-8895-8435404ed9a7,bauble.futbol,available,7.49,17.99,high,low,6,namesilo,,,22/09/2026 16:31
+9eb8473f-b008-4e68-8895-8435404ed9a7,bauble.futbol,available,7.49,17.99,medium,low,6,namesilo,,,22/09/2026 16:31
 6ebf4540-1655-431d-84ef-965651e3a36e,kauri.futbol,available,7.49,17.99,medium,low,5,namesilo,,,17/09/2026 16:32
+1f38fe1d-e0cb-4f46-8aad-8f9b74af640e,altai.futbol,available,5.38,13.66,high,low,5,spaceship,,,30/09/2026 05:15
 f17aad66-336b-47e0-b4e8-51df9cee4eb0,alley.futbol,available,5.38,13.66,medium,low,5,spaceship,,,28/09/2026 20:31
 73557e8b-14e6-4711-8e5b-923fa9a25090,albers.futbol,available,7.49,17.99,high,low,6,namesilo,,,18/09/2026 02:34
 c60ea11a-d68f-4638-aeac-29a20128857e,hematic.futbol,available,5.98,21.98,medium,low,7,namecheap,,,20/08/2026 21:53
@@ -788,7 +870,7 @@ fc6ed85a-ff41-4c3c-9909-68f660611065,mantle.futbol,available,5.98,21.98,medium,l
 588abeda-bc36-4d00-b490-a09e7c91086d,mirrored.futbol,available,5.98,21.98,high,low,8,namecheap,,,25/08/2026 01:11
 17362b56-f4fb-42b8-ac95-09b21eb89a93,anthill.futbol,available,7.49,17.99,high,low,7,namesilo,,,19/09/2026 13:26
 948bf661-7491-4871-a2ce-9c23cb22ed54,colonial.futbol,available,5.98,21.98,high,low,8,namecheap,,,12/08/2026 17:20
-73303b5b-f22d-47b3-8025-d8194ce85fa7,mentor.futbol,available,19.99,,high,low,6,name.com,,,
+73303b5b-f22d-47b3-8025-d8194ce85fa7,mentor.futbol,available,5.57,14.13,high,low,6,dynadot,,,30/09/2026 04:17
 78d4b089-22b9-462e-b156-5d7ae0aa0a7f,diabetes.futbol,available,5.38,13.66,high,low,8,spaceship,,,29/09/2026 14:48
 2b36b639-d71f-4b12-8def-e408f4549c9e,lucinda.futbol,available,5.57,14.13,high,low,7,dynadot,,,29/09/2026 15:29
 e8bdcf1c-3f3b-41c8-9d8e-9a1f90391ea7,lynchburg.futbol,available,7.49,17.99,medium,low,9,namesilo,,,28/09/2026 14:48
@@ -804,9 +886,10 @@ d845f653-f628-4989-8397-036d781a8f98,silvia.futbol,available,13.2,13.2,medium,lo
 d350f319-3e6c-4247-b8fe-b0fb22a403d0,nugatory.futbol,available,5.98,21.98,low,low,8,namecheap,,,03/09/2026 22:26
 547c041b-10c7-4766-abc6-64ace1d3ebbe,tapped.futbol,available,5.98,21.98,high,low,6,namecheap,,,11/09/2026 08:19
 a9a8c4bc-d59d-45cb-ba4e-26f1620aa06c,besides.futbol,available,7.49,17.99,medium,low,7,namesilo,,,28/09/2026 11:58
-89910f53-e99f-48c5-ae00-dc519c176862,model.futbol,available,7.49,17.99,high,medium,5,namesilo,,,28/09/2026 02:57
+89910f53-e99f-48c5-ae00-dc519c176862,model.futbol,available,5.66,13.9,high,medium,5,porkbun,,,30/09/2026 04:25
 47f7fd96-5cc1-4b99-9ecf-21e4c83925d1,abode.futbol,available,7.49,17.99,high,low,5,namesilo,,,16/09/2026 16:25
 15136a5f-0f78-49ad-a1d1-5c457efb23e8,movement.futbol,available,7.49,17.99,high,low,8,namesilo,,,28/09/2026 21:51
+8fbb291a-ca6a-465a-9a90-212f08d40ad6,heath.futbol,available,5.38,13.66,high,low,5,spaceship,,,30/09/2026 17:33
 654bdd8c-cc3c-4baf-aebb-1e2bb94043c5,tenuous.futbol,available,5.98,21.98,medium,low,7,namecheap,,,11/09/2026 11:41
 497fbb44-aa62-47cc-9b0d-5e51dfca9120,simulate.futbol,available,5.98,21.98,high,low,8,namecheap,,,10/09/2026 05:47
 64dc0a4b-9994-4703-b637-d7b0947d88dc,increases.futbol,available,5.66,13.9,medium,low,9,porkbun,,,29/09/2026 10:46
@@ -821,7 +904,7 @@ ba523d4f-b086-4452-a782-941a53cccbd9,hepatitis.futbol,available,5.38,13.66,high,
 2c872bb3-c3a2-4af2-a445-3da9ec2c30db,elements.futbol,available,5.38,13.66,high,low,8,spaceship,,,28/09/2026 01:50
 55061984-8d49-4d8c-80c0-adc47ae112e6,nomothetic.futbol,available,5.98,21.98,medium,low,10,namecheap,,,03/09/2026 18:22
 5fa10829-e1d5-4f51-8605-09be0e1e55d9,reside.futbol,available,7.49,17.99,high,low,6,namesilo,,,24/09/2026 23:25
-b5ed5fe1-f48a-4fa3-81fd-051a2a43fd7f,blurred.futbol,available,5.98,21.98,high,low,7,namecheap,,,22/09/2026 23:21
+b5ed5fe1-f48a-4fa3-81fd-051a2a43fd7f,blurred.futbol,available,5.98,21.98,medium,low,7,namecheap,,,22/09/2026 23:21
 bfbda1db-3de9-4da6-8e71-836bc4cd8c50,carolyn.futbol,available,7.49,17.99,high,low,7,namesilo,,,28/09/2026 16:28
 dc4effae-b46e-48af-be72-d8433d42f6ac,brothers.futbol,available,16.98,21.98,high,low,8,namecheap,,,
 32737dcb-bae5-4d80-b187-d7c19c3ee910,prosecute.futbol,available,5.38,13.66,high,low,9,spaceship,,,29/09/2026 20:42
@@ -831,6 +914,7 @@ dc4effae-b46e-48af-be72-d8433d42f6ac,brothers.futbol,available,16.98,21.98,high,
 8f3db2ec-089f-4eb2-ad28-0bf26861000b,seizure.futbol,available,5.66,13.9,high,low,7,porkbun,,,29/09/2026 00:20
 75486ff0-ae98-46a3-95a9-a2c2241173c4,meridian.futbol,available,5.98,21.98,high,medium,8,namecheap,,,24/08/2026 20:46
 b805d325-de6e-4eed-9762-fa1c12d3e1d1,chickpea.futbol,available,7.49,17.99,high,low,8,namesilo,,,24/09/2026 14:29
+e89d8109-b59c-4691-a020-3f8eea1ba411,gerd.futbol,available,7.49,17.99,high,low,4,namesilo,,,30/09/2026 13:04
 e1d32084-d1bc-414f-aebc-d5e06c85be2f,wolfe.futbol,available,7.49,17.99,high,low,5,namesilo,,,25/09/2026 10:55
 a898ecc6-b5ef-4def-87b3-cf4079890178,cabin.futbol,available,7.49,17.99,high,low,5,namesilo,,,24/09/2026 11:32
 fea36e49-aa20-4ed6-bd33-01f8d7ad1d25,evocative.futbol,available,5.98,21.98,high,low,9,namecheap,,,17/08/2026 15:14
@@ -842,12 +926,13 @@ a88d9071-ab27-406d-b964-39ce6ad8d610,nys.futbol,available,13.2,13.2,high,low,3,c
 c0c8a056-9334-4470-aeae-23b618967b1d,dies.futbol,available,7.49,17.99,medium,low,4,namesilo,,,25/09/2026 16:12
 29d13315-4212-4866-bc3e-8d4f1b9b7750,participation.futbol,available,7.49,17.99,high,low,13,namesilo,,,28/09/2026 22:50
 126bf21b-9534-4f40-b321-3288e16a4a4f,cos.futbol,available,5.98,21.98,high,medium,3,namecheap,,,24/09/2026 18:26
+86be52aa-028f-444e-96e9-1646c241db0a,pamphlets.futbol,available,9.99,9.99,medium,low,9,godaddy,,,01/10/2026 00:17
 88f045ae-b7a8-40e8-bdd8-86a97f633cc7,emphasis.futbol,available,13.2,13.2,high,low,8,cloudflare,,,29/09/2026 12:11
 08ec6f4d-84c3-4274-8782-753803fef3d2,confirming.futbol,available,7.49,17.99,high,low,10,namesilo,,,23/09/2026 19:45
 8788f76a-542b-41f2-9b3c-8cd89db51082,trumbull.futbol,available,7.49,17.99,medium,low,8,namesilo,,,28/09/2026 14:37
 645aefee-688a-4c70-862b-ae8afcd812ef,dealings.futbol,available,5.57,14.13,high,low,8,dynadot,,,29/09/2026 18:35
 be615eb6-f3fd-4a71-a96b-bbb125740902,natation.futbol,available,5.98,21.98,medium,low,8,namecheap,,,18/08/2026 08:34
-ee21b8e3-3099-434d-a898-0c0a3d3e26ee,traveling.futbol,available,17.99,17.99,high,low,9,namesilo,,,
+ee21b8e3-3099-434d-a898-0c0a3d3e26ee,traveling.futbol,available,13.2,13.2,high,low,9,cloudflare,,,30/09/2026 13:48
 8ab65e36-1176-489d-9cd8-599ba6801bfa,gsm.futbol,available,5.38,13.66,high,low,3,spaceship,,,29/09/2026 15:14
 80558457-c0b1-449d-9e8d-8f7102d937c4,polygonal.futbol,available,5.98,21.98,medium,low,9,namecheap,,,08/09/2026 23:20
 86c96b33-992a-46d0-b661-38299e6d6a43,wannabee.futbol,available,5.98,21.98,medium,low,8,namecheap,,,07/08/2026 05:22
@@ -855,7 +940,7 @@ ccd2e05b-12fc-4c9e-91d6-f3ad9721f40b,crc.futbol,available,13.2,13.2,high,low,3,c
 6185cff4-0666-4d22-b337-644b764a727d,mayfield.futbol,available,7.49,17.99,medium,low,8,namesilo,,,28/09/2026 12:21
 4abe34e4-636a-4bb0-9f6f-f168c1dbd946,coaxial.futbol,available,5.98,21.98,medium,low,7,namecheap,,,12/08/2026 14:16
 5ea80be7-b700-4f63-8cc7-22519f3204e7,mazda.futbol,available,7.49,17.99,high,low,5,namesilo,,,28/09/2026 16:04
-86803c58-72d6-4fbf-bba0-7a2553332cbe,asymmetry.futbol,available,5.98,21.98,high,low,9,namecheap,,,20/09/2026 18:39
+86803c58-72d6-4fbf-bba0-7a2553332cbe,asymmetry.futbol,available,5.98,21.98,medium,low,9,namecheap,,,20/09/2026 18:39
 587768b9-591d-400f-bd00-4f10a8c63eb0,fatah.futbol,available,7.49,17.99,medium,low,5,namesilo,,,18/09/2026 00:27
 bbbace29-4013-46db-b4c2-d67a481eac01,fuckster.futbol,available,17.99,17.99,medium,low,8,namesilo,,,
 db087c60-6bda-477a-be4f-c986ec3b39e1,diet.futbol,available,7.49,17.99,high,low,4,namesilo,,,24/09/2026 22:16
@@ -871,20 +956,22 @@ f75d449a-9d94-41d3-b3df-7c65132d1a44,bivalve.futbol,available,5.98,21.98,high,lo
 7377595f-9ca3-466d-a7a5-36da10d0d93d,choir.futbol,available,7.49,17.99,high,low,5,namesilo,,,29/09/2026 08:52
 050ab8c8-63b0-431b-bce4-91d4c4957488,denver.futbol,premium,68.51,68.51,high,low,6,spaceship,,,27/09/2026 12:08
 8df7f7a7-8939-4e9a-a778-b1ca93d5a256,genre.futbol,available,7.49,17.99,high,low,5,namesilo,,,29/09/2026 07:04
+1092be9b-9043-4070-89e8-78a2f0b1ea87,sens.futbol,available,7.49,17.99,high,low,4,namesilo,,,01/10/2026 01:48
 50cc948d-1fbe-41bb-8ad9-aeb7467cbbb9,illness.futbol,available,5.38,13.66,high,low,7,spaceship,,,29/09/2026 23:34
 506911d7-8506-4ad3-b183-27a3aea0bee7,williamsburg.futbol,available,7.49,17.99,medium,low,12,namesilo,,,27/09/2026 01:57
 82c48311-677a-4a9b-ae42-9ee3c3cdb333,obligatory.futbol,available,5.98,21.98,medium,low,10,namecheap,,,03/09/2026 23:42
 2f09fb8d-1e06-4323-abbd-726a7ea8e307,corelli.futbol,available,7.49,17.99,medium,low,7,namesilo,,,20/09/2026 01:37
-28bf55c2-725a-40ee-ac8a-7605190dc0e0,matey.futbol,available,5.98,21.98,high,low,5,namecheap,,,12/08/2026 07:40
+28bf55c2-725a-40ee-ac8a-7605190dc0e0,matey.futbol,available,5.98,21.98,medium,low,5,namecheap,,,12/08/2026 07:40
 929e5570-f3db-42d7-9dca-164410493e4c,llp.futbol,available,17.99,17.99,high,low,3,namesilo,,,
 246a40e9-11f1-48f9-8578-25e1d304dd7f,binaural.futbol,available,5.98,21.98,medium,low,8,namecheap,,,09/08/2026 18:40
+1cda7ebb-4acf-4ac9-a5a2-71800385d712,coimbra.futbol,available,5.66,13.9,medium,low,7,porkbun,,,30/09/2026 21:37
 d337c076-5e1d-4560-b8ef-d26de1364e15,radios.futbol,available,7.49,17.99,medium,low,6,namesilo,,,18/09/2026 23:09
 310108d1-b87b-4d40-b3b9-292935e2141d,meaningful.futbol,available,5.98,21.98,high,low,10,namecheap,,,25/09/2026 18:37
 50aea592-a399-4cd1-b745-b57184583dbe,screenplay.futbol,available,5.66,13.9,high,low,10,porkbun,,,28/09/2026 20:23
 f10bf693-1499-4de7-9270-27dbe09259e1,systemic.futbol,available,5.98,21.98,high,low,8,namecheap,,,11/09/2026 06:46
 fea80630-8bcc-40e7-a127-a97ddf5c5773,barrette.futbol,available,5.98,21.98,medium,low,8,namecheap,,,22/09/2026 08:28
 af6df83b-9a62-4d59-b1f2-0b4c80403326,chives.futbol,available,5.98,21.98,high,low,6,namecheap,,,18/09/2026 11:27
-980579ec-57c6-4e87-856e-ae455d34f435,taproom.futbol,available,7.49,17.99,high,low,7,namesilo,,,22/09/2026 03:42
+980579ec-57c6-4e87-856e-ae455d34f435,taproom.futbol,available,7.49,17.99,medium,low,7,namesilo,,,22/09/2026 03:42
 6ebe008d-44d4-4d11-ac35-af80ae6e93e8,manila.futbol,available,5.38,13.66,high,low,6,spaceship,,,29/09/2026 07:06
 1a314d03-c1be-4406-9d91-512a1240d994,blockade.futbol,available,5.57,14.13,medium,low,8,dynadot,,,29/09/2026 01:13
 f22007fd-cc3a-44fd-bed9-ead657c71cbd,moony.futbol,available,5.98,21.98,medium,low,5,namecheap,,,14/08/2026 18:50
@@ -901,101 +988,14 @@ b7c1774c-467f-4d80-bf1e-27ffb61836e6,activist.futbol,available,7.49,17.99,high,l
 03013178-b114-4c22-b495-fdabbb2950eb,microscope.futbol,available,5.98,21.98,high,low,10,namecheap,,,28/09/2026 19:53
 b7f4de38-59db-4d8f-91a1-f328d1f44abd,secretaries.futbol,available,7.49,17.99,medium,low,11,namesilo,,,30/09/2026 00:46
 d34bd1e3-36f7-4ae5-ac4e-93854b256319,alright.futbol,available,7.49,17.99,high,low,7,namesilo,,,22/09/2026 01:15
-75e3ede7-bc96-425c-ba7e-61fd12f42ac6,undesirable.futbol,available,17.99,17.99,high,low,11,namesilo,,,
+75e3ede7-bc96-425c-ba7e-61fd12f42ac6,undesirable.futbol,available,17.99,17.99,medium,low,11,namesilo,,,
 924ecb71-3131-4891-83f2-8e5fbd52c231,lifelong.futbol,available,5.98,21.98,high,low,8,namecheap,,,23/08/2026 01:51
+3c955391-de47-4494-89fa-f24f37092c7f,pastures.futbol,available,13.2,13.2,medium,low,8,cloudflare,,,30/09/2026 07:16
 ea84dbb5-3d48-49c8-a6c9-7ab5b60e5d21,bosnian.futbol,available,5.98,21.98,high,low,7,namecheap,,,10/08/2026 20:21
-abc5ebbe-2add-4d37-a92d-6ac412de9f50,indistinct.futbol,available,5.98,21.98,high,low,10,namecheap,,,22/08/2026 03:14
+abc5ebbe-2add-4d37-a92d-6ac412de9f50,indistinct.futbol,available,5.98,21.98,medium,low,10,namecheap,,,22/08/2026 03:14
 9a79240f-b19f-4f61-8575-0068b760718f,hideous.futbol,available,5.98,21.98,medium,low,7,namecheap,,,21/08/2026 08:13
 3c3868f8-aade-4cbe-8679-4b3bba4d679a,amiens.futbol,available,5.57,14.13,medium,low,6,dynadot,,,29/09/2026 04:12
 32b94e81-d74e-409c-a10c-f14fb8182794,immobile.futbol,available,5.98,21.98,medium,low,8,namecheap,,,21/08/2026 21:05
 8dd43e51-d12b-4213-84e9-f03397f7922c,stoneless.futbol,available,5.98,21.98,low,low,9,namecheap,,,10/09/2026 21:12
 3378db70-b26d-4467-81dd-e903f72cff73,dialog.futbol,available,7.49,17.99,high,low,6,namesilo,,,24/09/2026 22:13
 56700cc9-09e5-4fd4-aedd-df5bf4f64099,fortunate.futbol,available,5.98,21.98,high,low,9,namecheap,,,18/08/2026 12:47
-b8b229da-86ad-4eee-8208-cbcfe42e7186,dyed.futbol,available,5.98,21.98,high,low,4,namecheap,,,14/08/2026 21:54
-0800b45f-114b-4249-9315-9dbd33d260c2,stuart.futbol,available,7.49,17.99,high,low,6,namesilo,,,25/09/2026 22:59
-06b262e4-0106-4763-82af-da1383fb2ecc,challenged.futbol,available,7.49,17.99,medium,low,10,namesilo,,,28/09/2026 11:21
-cf3e82bb-ceb9-4159-8a70-aec4cc6f514d,stockings.futbol,available,7.49,17.99,medium,low,9,namesilo,,,17/09/2026 08:14
-9429643c-3f6b-44b4-8529-fe221a121832,contingency.futbol,available,5.66,13.9,high,low,11,porkbun,,,29/09/2026 22:54
-07a8da78-3c66-4ce2-8e62-def98ead52aa,scalar.futbol,available,5.98,21.98,high,low,6,namecheap,,,09/09/2026 22:16
-5e30127f-a605-49c3-bf28-4b6c18b233bb,limitations.futbol,available,5.38,13.66,medium,low,11,spaceship,,,29/09/2026 10:21
-b50efea7-bb66-435e-947a-d5642fba2273,situation.futbol,available,5.38,13.66,high,low,9,spaceship,,,29/09/2026 02:15
-a6f03a0d-99b3-41fc-9a14-cf34cfd64439,harder.futbol,available,7.49,17.99,medium,low,6,namesilo,,,26/09/2026 03:10
-664d136b-d116-4b5b-8414-8a66af431421,spheroidal.futbol,available,5.98,21.98,medium,low,10,namecheap,,,16/08/2026 05:22
-b6a66736-b24f-4c49-b15e-84d0284982b3,dennis.futbol,available,7.49,17.99,high,low,6,namesilo,,,25/09/2026 13:58
-4a2d97a3-15ae-42e7-a929-7078297cfbff,tubed.futbol,available,5.98,21.98,medium,low,5,namecheap,,,11/09/2026 20:56
-c8c05157-f9c3-4f8b-b413-a8b0c852e8ff,chargeable.futbol,available,5.98,21.98,medium,low,10,namecheap,,,12/08/2026 02:27
-e9d22dd0-526c-4b80-b4e2-cf72797ef75a,arrogance.futbol,available,7.49,17.99,high,low,9,namesilo,,,20/09/2026 09:19
-2121646a-c522-4c08-9db5-a1d72df2bc9e,fluently.futbol,available,5.98,21.98,high,low,8,namecheap,,,14/09/2026 19:08
-f256e0c8-12fc-4a82-97c5-1e8e168ecd92,acervulus.futbol,available,7.49,17.99,medium,low,9,namesilo,,,16/09/2026 23:44
-7314466a-de5f-4b92-bef7-20b7f934e733,takeout.futbol,available,5.98,21.98,high,low,8,namecheap,,,19/09/2026 06:56
-cca11f0c-2ce6-4262-8fdd-68b1a4006aeb,intrigued.futbol,available,5.38,13.66,medium,low,9,spaceship,,,30/09/2026 00:46
-b322f5e3-a26a-4d93-8130-392cdf64cf01,iii.futbol,available,5.98,21.98,high,low,3,namecheap,,,
-ffc7451a-5bdc-49ea-a5bb-deb5f3af5d23,tend.futbol,available,5.38,13.66,high,low,4,spaceship,,,29/09/2026 23:54
-920ebceb-f241-4e63-af3e-c464258097af,honourable.futbol,available,5.98,21.98,high,low,10,namecheap,,,21/08/2026 13:34
-8f76fe44-c53d-475a-9495-5ddcc4d7d3bf,crossed.futbol,available,5.98,21.98,high,low,7,namecheap,,,13/08/2026 08:18
-6ea71cce-e585-433c-a973-44743ed2c91b,millionaire.futbol,available,5.57,14.13,high,low,11,dynadot,,,28/09/2026 07:04
-9f818088-3c88-4064-bc8b-0636531de414,pools.futbol,available,5.98,21.98,high,low,5,namecheap,,,16/09/2026 13:57
-b3532117-df86-4394-86e4-e1b830e6716d,tracy.futbol,available,17.99,17.99,high,low,5,namesilo,,,
-5fb2b900-19a7-4f9a-b1d7-24c0cce6a9ed,mistakenly.futbol,available,5.98,21.98,medium,low,10,namecheap,,,14/09/2026 16:00
-7cd1837b-4488-42e3-a084-48ea7d55e435,drift.futbol,available,5.38,13.66,high,medium,5,spaceship,,,28/09/2026 01:40
-15a52600-1fce-46a6-8cda-04df91b5efb1,escaped.futbol,available,5.98,21.98,medium,low,7,namecheap,,,07/08/2026 11:22
-a4c4a66f-9e7e-46f5-a7bb-681e50c5c34d,roast.futbol,available,7.49,17.99,high,low,5,namesilo,,,27/09/2026 15:46
-694055e0-bc56-46dd-94a3-06ea02f1f4f9,vocally.futbol,available,7.49,17.99,medium,low,7,namesilo,,,16/09/2026 11:07
-f4987ffc-4702-4d70-8dc7-27100e4c0d50,acrimony.futbol,available,7.49,17.99,medium,low,8,namesilo,,,17/09/2026 03:09
-add6342a-3f78-4617-8d62-becfe0498b65,diplomate.futbol,available,5.38,13.66,high,low,9,spaceship,,,29/09/2026 15:07
-80fea5b2-f9eb-42b7-bd9d-e47fa2174e0a,johnstown.futbol,available,5.38,13.66,medium,low,9,spaceship,,,28/09/2026 22:27
-2085b021-c87e-45da-a082-098fddfd30b8,snippet.futbol,available,17.99,17.99,high,low,7,namesilo,,,
-fee832c5-2fbe-49bd-8075-d7399495d1e8,batteries.futbol,available,13.2,13.2,medium,low,9,cloudflare,,,27/09/2026 23:45
-b6973422-c5b5-4557-bd9b-60e40b46f7aa,come.futbol,available,7.49,17.99,high,low,4,namesilo,,,28/09/2026 09:23
-bfe5f77d-ae17-4ae7-8f06-9edaf7c615b7,occupier.futbol,available,5.98,21.98,high,low,8,namecheap,,,09/09/2026 14:58
-67ed9a61-c240-43f8-ba92-2c3e3625e2e6,tipped.futbol,available,5.98,21.98,high,low,6,namecheap,,,07/08/2026 13:33
-578daf6c-e273-449f-810e-d8414e66d70c,arisaema.futbol,available,5.98,21.98,medium,low,8,namecheap,,,20/09/2026 05:35
-29a3f529-87fa-4b50-83a6-85c9c6f8a6a6,acorea.futbol,available,7.49,17.99,medium,low,6,namesilo,,,17/09/2026 02:12
-0d28ce12-35d9-4557-8d81-021b6bfab1da,unconscious.futbol,available,7.49,17.99,medium,low,11,namesilo,,,26/09/2026 03:06
-7607a4f4-bfba-49cc-ac84-6fd883689796,ripened.futbol,available,5.98,21.98,high,low,7,namecheap,,,09/09/2026 17:55
-5204ebdf-1023-4a29-8f3a-e049d4f78004,exorbitant.futbol,available,5.98,21.98,medium,low,10,namecheap,,,17/08/2026 17:36
-b2d2161a-1b59-46a1-a103-8d9d1d3cf60f,olefin.futbol,available,7.49,17.99,medium,low,6,namesilo,,,18/09/2026 08:30
-9b3ec6ec-cede-4a8b-bfdb-7d5329c0c0a1,sweep.futbol,available,7.49,17.99,high,low,5,namesilo,,,24/09/2026 10:48
-9ec83bea-bbb7-47d7-a4bc-7e49bdf37b12,pamphlet.futbol,available,7.49,17.99,high,low,8,namesilo,,,24/09/2026 07:11
-fa1a63da-74ac-46af-98c2-6aa8b727193e,vessel.futbol,available,7.49,17.99,high,low,6,namesilo,,,27/09/2026 16:11
-684cb977-b4f0-46c8-a47b-79cca5cce91b,anteroom.futbol,available,7.49,17.99,medium,low,8,namesilo,,,19/09/2026 12:42
-3cd826cc-8b5d-4bb9-a382-d1d22c6647e4,irvin.futbol,available,7.49,17.99,medium,low,5,namesilo,,,28/09/2026 16:39
-0e2e3878-cc41-4fea-98a3-8945e34a7d36,subtropical.futbol,available,5.98,21.98,high,low,11,namecheap,,,28/09/2026 11:31
-cacdf4b9-352a-4007-8677-080e4badeb7b,zero.futbol,available,7.49,17.99,high,medium,4,namesilo,,,21/09/2026 10:32
-744edefc-4f51-4793-bfc1-c632082ec878,thought.futbol,available,5.38,13.66,high,low,7,spaceship,,,28/09/2026 09:13
-107562c3-9ca0-43d0-8372-296eac7a0ba0,narratives.futbol,available,7.49,17.99,medium,low,10,namesilo,,,20/09/2026 10:13
-099e4036-18d5-4e50-84b3-72a8c7c1020e,indifferent.futbol,available,17.99,17.99,high,low,11,namesilo,,,
-49c6dc34-668e-4714-af53-7f27f304e9a2,atoll.futbol,available,7.49,17.99,high,low,5,namesilo,,,20/09/2026 21:52
-29f5c196-eee7-44cb-87e0-878b72b553d3,contests.futbol,available,7.49,17.99,medium,low,8,namesilo,,,30/09/2026 00:34
-e59e2516-23be-4110-a74a-47ce0b61ac1b,viable.futbol,available,5.98,21.98,high,low,6,namecheap,,,17/08/2026 16:52
-280e0f6b-6ea4-4cbd-8d4b-761e1bbbf037,recognised.futbol,available,7.49,17.99,high,low,10,namesilo,,,21/09/2026 15:30
-4382c015-b153-413d-b209-63f9594c36f2,injure.futbol,available,5.38,13.66,medium,low,6,spaceship,,,28/09/2026 11:07
-a26989d0-72ec-4eb4-9e9d-2cb96e9ac14d,ingrown.futbol,available,5.98,21.98,medium,low,7,namecheap,,,22/08/2026 04:56
-0dbe4acb-01c9-4d07-ae8d-34fa0f0d69df,beach.futbol,available,7.49,17.99,high,low,5,namesilo,,,29/09/2026 01:36
-26dc674a-e24c-4b86-8301-8b8537ff8ede,illusion.futbol,available,7.49,17.99,high,low,8,namesilo,,,24/09/2026 16:35
-fa122854-2794-4c9e-b22a-86db7e446054,sinner.futbol,available,13.2,13.2,medium,low,6,cloudflare,,,29/09/2026 18:50
-a252cfa2-2a88-4385-b625-4a230740f729,pawn.futbol,available,5.38,13.66,high,low,4,spaceship,,,28/09/2026 18:36
-d8166103-5c2f-4c57-b115-af5f1f8d570e,gentle.futbol,available,5.98,21.98,high,low,6,namecheap,,,06/08/2026 19:29
-f96c918e-82fd-48d3-9721-7f3dec8abd51,kali.futbol,available,7.49,17.99,high,low,4,namesilo,,,22/09/2026 05:54
-0eb13445-9cf3-49df-b6f7-57a6ac5ba16f,bulgarian.futbol,available,5.98,21.98,high,low,9,namecheap,,,11/08/2026 08:23
-7b537e40-6617-4fde-bf0d-caa307231e79,cottage.futbol,available,7.49,17.99,high,low,7,namesilo,,,24/09/2026 11:16
-e8ba6799-d3bc-48a5-9cfe-cec2abd16512,bremen.futbol,available,7.49,17.99,high,low,6,namesilo,,,25/09/2026 21:59
-f6bceb3e-1f1a-4065-9198-c9f74bb076d2,adair.futbol,available,7.49,17.99,medium,low,5,namesilo,,,28/09/2026 16:27
-dca88d2f-c170-4b9d-b5bb-d6f1a15c064d,bellying.futbol,available,5.98,21.98,low,low,8,namecheap,,,09/08/2026 13:37
-b0979e3f-8dc7-4f0a-adbb-929bb87e2161,step.futbol,available,13.2,13.2,high,low,4,cloudflare,,,28/09/2026 17:14
-e9bd911a-81e4-4f71-9b8e-9e746306e3d9,dod.futbol,available,9.99,9.99,high,low,3,godaddy,,,30/09/2026 01:18
-abcb5685-20bb-40bd-ad39-2c9024fba965,assorted.futbol,available,5.98,21.98,medium,low,8,namecheap,,,07/08/2026 07:25
-f547b152-361b-4001-8faa-b31e43e120f6,collapsed.futbol,available,9.99,24.99,low,low,9,name.com,,,20/09/2026 18:10
-0425c3f8-8997-44cf-8847-d55a1e72afab,intro.futbol,available,5.66,13.9,high,low,5,porkbun,,,30/09/2026 00:18
-7103d8ad-485b-461f-a6d8-14321a0f481a,boil.futbol,available,7.49,17.99,medium,low,4,namesilo,,,29/09/2026 00:13
-e7959841-66df-4e59-9965-a1a0aa75d960,editor.futbol,available,5.98,21.98,high,low,6,namecheap,,,25/09/2026 05:10
-e7a6d64b-7ffa-407e-afdc-45c16b1b71b5,drudgery.futbol,available,5.98,21.98,medium,low,8,namecheap,,,08/09/2026 21:19
-2ee794c8-61e8-4c69-9730-97327601749f,banning.futbol,available,5.98,21.98,medium,low,7,namecheap,,,18/08/2026 11:11
-07d3bc66-2001-4977-9cef-f6fe7d5c088f,seward.futbol,available,7.49,17.99,high,low,6,namesilo,,,28/09/2026 03:05
-fe13037a-af3f-4d8b-8b49-f0b4bef186ba,valentine.futbol,available,7.49,17.99,high,low,9,namesilo,,,26/09/2026 00:29
-32cdb788-83b4-4f0c-a5ca-7516efc764b5,amalgam.futbol,available,7.49,17.99,high,low,7,namesilo,,,18/09/2026 15:38
-6311e820-e260-4676-84ff-121df487bf56,cursorial.futbol,available,5.98,21.98,high,low,9,namecheap,,,13/08/2026 11:40
-917f1f85-c98e-40ca-932b-834f01de17f7,fatality.futbol,available,5.38,13.66,medium,low,8,spaceship,,,30/09/2026 01:36
-cec32280-f866-456a-83d4-80a83c9eafb3,admits.futbol,available,7.49,17.99,medium,low,6,namesilo,,,29/09/2026 10:40
-b0eac1ba-1504-43d1-a5f0-17edbb4a6493,dresser.futbol,available,5.98,21.98,high,low,7,namecheap,,,17/09/2026 05:17
-7beb6d94-f65f-46fa-b34e-0f528f67d9c1,rembrandt.futbol,available,7.49,17.99,high,low,9,namesilo,,,28/09/2026 15:14

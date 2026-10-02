@@ -1,10 +1,10 @@
-# Available .FUTBOL One-Word Domains (31,824)
+# Available .FUTBOL One-Word Domains (33,361)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C824%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C361%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .futbol one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,824 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,361 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,824 domains · **Median ask:** $8.92 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 33,361 domains · **Median ask:** $8.79 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/futbol`
 **Best for:** founders, investors, studios
 
@@ -68,21 +68,21 @@ print(df.head())
 | wake.futbol     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | club.futbol     | premium   | $242      | $242          | high           | medium | 4      | namesilo         |
 | adi.futbol      | available | $7.49     | $17.99        | high           | low    | 3      | namesilo         |
-| denver.futbol   | premium   | $68.51    | $68.51        | high           | low    | 6      | spaceship        |
-| afp.futbol      | available | $5.98     | $21.98        | high           | low    | 3      | namecheap        |
 | email.futbol    | premium   | $854      | $854          | high           | medium | 6      | namesilo         |
-| alb.futbol      | available | $5.98     | $21.98        | high           | low    | 3      | namecheap        |
+| afp.futbol      | available | $5.98     | $21.98        | high           | low    | 3      | namecheap        |
 | french.futbol   | premium   | $128.70   | $128.70       | high           | low    | 6      | namecheap        |
-| aoc.futbol      | available | $13.20    | $13.20        | high           | low    | 3      | cloudflare       |
+| alb.futbol      | available | $5.98     | $21.98        | high           | low    | 3      | namecheap        |
 | planet.futbol   | premium   | $854      | $854          | high           | medium | 6      | namesilo         |
-| aro.futbol      | available | $13.20    | $13.20        | high           | low    | 3      | cloudflare       |
+| aoc.futbol      | available | $13.20    | $13.20        | high           | low    | 3      | cloudflare       |
 | european.futbol | premium   | $242      | $242          | high           | low    | 8      | namesilo         |
+| aro.futbol      | available | $13.20    | $13.20        | high           | low    | 3      | cloudflare       |
 | atv.futbol      | available | $7.49     | $17.99        | high           | low    | 3      | namesilo         |
 | cap.futbol      | available | $13.20    | $13.20        | high           | low    | 3      | cloudflare       |
 | cas.futbol      | available | $5.38     | $13.66        | high           | low    | 3      | spaceship        |
 | con.futbol      | available | $5.38     | $13.66        | high           | low    | 3      | spaceship        |
 | cos.futbol      | available | $5.98     | $21.98        | high           | medium | 3      | namecheap        |
 | crc.futbol      | available | $13.20    | $13.20        | high           | low    | 3      | cloudflare       |
+| crm.futbol      | available | $7.49     | $17.99        | high           | medium | 3      | namesilo         |
 | did.futbol      | available | $17.99    | $17.99        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,824 live domains                        |
+| 1,000-row public sample | 33,361 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUTBOL One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUTBOL One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
